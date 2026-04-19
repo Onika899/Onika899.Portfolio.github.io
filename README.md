@@ -77,3 +77,52 @@ Diploma in ICT: Application Development – Final Year
 <video width="600" controls>
   <source src="4880ED72-56B9-4631-8048-1D59070CD55B.mp4" type="video/mp4">
 </video>
+
+## Reflection: Coding My CV Using Markdown (STAR Method)
+
+### Situation
+During the development of my digital portfolio, I was required to create and present my CV using GitHub Markdown. This was a new experience for me because I was used to creating CVs with traditional word-processing tools, where formatting is done visually rather than through code. This required me to approach document creation in a more technical and structured way.
+
+### Task
+My task was to transform my CV into a well-structured, professional, and readable document using Markdown. The CV needed to include key sections such as contact details, profile, technical skills, education, project experience, and references, while ensuring that it displayed correctly on GitHub and maintained a professional standard suitable for potential employers.
+
+### Action
+To complete this task, I first planned the structure of my CV by organising the sections in a logical order to ensure a smooth flow of information.
+
+I then learned and applied Markdown syntax, using:
+- Headings (`#`, `##`, `###`) to separate sections  
+- Bullet points (`-`) to improve readability  
+- Bold text (`**text**`) for emphasis  
+- Horizontal lines (`---`) to organise content  
+
+What was different for me is that I had to think like a developer, focusing on structure and clean formatting rather than relying on visual editing tools.
+
+I also wrote concise and clear content, especially in my project experience, where I highlighted my role and the technologies used.
+
+I tested and refined my CV directly on GitHub by uploading and previewing the file, fixing spacing, alignment, and formatting issues. This process helped me develop attention to detail, as even small syntax errors affected how the document was displayed.
+
+### Result
+As a result, I successfully created a clean, structured, and professional CV that is easy to read and accessible online. The final document is consistent, well-organised, and ready to be published on GitHub Pages.
+
+Through this process, I learned how Markdown can be used as a professional tool for documentation. I improved my ability to structure information clearly, developed stronger attention to detail, and gained practical experience using GitHub for real-world tasks.
+
+This experience enhanced my technical communication skills and prepared me for industry practices where developers use platforms like GitHub to present and manage their work. It also increased my confidence in learning and applying new technologies.
+
+---
+
+## What Was Easy and What Was Difficult
+
+### Easy
+- Organising content into sections was straightforward  
+- Basic Markdown syntax was easy to learn and apply  
+- GitHub preview made it easy to fix formatting issues  
+
+### Difficult
+- Managing spacing and line breaks required trial and error  
+- Keeping formatting consistent across sections needed attention to detail  
+- Deciding how much detail to include in each project was challenging  
+
+---
+
+## Conclusion
+Coding my CV in Markdown was a valuable learning experience that helped me think more like a developer when presenting information. I learned to focus on structure, clarity, and consistency rather than only visual design. This experience has prepared me to create professional documentation using developer tools and strengthened my readiness for the workplace.
