@@ -1,41 +1,36 @@
-# ONIKA GOBANE
+# Onika Gobane
 
-## CONTACT
-
-📞 064-062-6907  
+## Contact
+📞 064 062 6907  
 ✉️ 231089945@mycput.ac.za  
-📍 10 Dorset Street, District Six , 7925   
-🐙 www.github.com/Onika899  
-💼 www.linkedin.com/in/onika-gobane-063117270/
+📍 10 Dorset Street, District Six, 7925  
+🐙 [GitHub](https://github.com/Onika899)  
+💼 [LinkedIn](https://www.linkedin.com/in/onika-gobane-063117270/)  
 
 ---
 
-## PROFILE
-
+## Profile
 Final-year Information Technology (Application Development) student at the Cape Peninsula University of Technology (CPUT) with a growing passion for software and web application development. Enjoy creating functional digital solutions and designing user-friendly interfaces that enhance overall user interaction. Currently seeking an internship or junior developer role where I can apply my programming, database, and UI/UX design skills while developing practical industry experience.
 
 ---
 
-## TECHNICAL SKILLS
-
-- Java
-- Python
-- PHP
-- JavaScript
-- HTML
-- CSS
-- Object-Oriented Programming
-- Database Basics
-- Cybersecurity Awareness
-- MySQL / Database Connectivity
-- Git Version Control
-- Blockchain and Cryptocurrency
-- User Interface (UI) Design
+## Technical Skills
+- Java  
+- Python  
+- PHP  
+- JavaScript  
+- HTML & CSS  
+- Object-Oriented Programming  
+- Database Basics  
+- MySQL / Database Connectivity  
+- Git Version Control  
+- Cybersecurity Awareness  
+- Blockchain & Cryptocurrency  
+- User Interface (UI) Design  
 
 ---
 
-## EDUCATION
-
+## Education
 **Cofimvaba High School**  
 Matric (Grade 12) – Completed 2022  
 
@@ -47,159 +42,96 @@ Diploma in ICT: Application Development – Final Year
 
 ---
 
-## PROJECT EXPERIENCE
+## Project Experience
 
-### CPUT Admission Tracking System (Project Manager) – 2025  
-**Technologies:** Java, Java Swing, JDBC, MySQL
+### CPUT Admission Tracking System – Project Manager (2025)  
+**Technologies:** Java, Java Swing, JDBC, MySQL  
+- Led a development team in designing an Admission Tracking System to manage student application data.  
+- Developed GUI components and contributed to system architecture using object-oriented programming principles.  
+- Implemented database connectivity and supported documentation, reporting, and authentication features.  
 
-- Led a development team in designing an Admission Tracking System to manage student application data.
-- Developed GUI components and contributed to system architecture using object-oriented programming principles.
-- Implemented database connectivity and supported documentation, reporting, and authentication features.
-
-### Capitec Mobile Banking App Redesign Prototype (Design Leader) – 2025  
-**Tools:** Figma, UI/UX Design
-
-- Created high-fidelity prototypes for key features including dashboard, transactions, payments, and profile management.
-- Applied user-centered design principles and coordinated design improvements based on feedback and iteration.
+### Capitec Mobile Banking App Redesign Prototype – Design Leader (2025)  
+**Tools:** Figma, UI/UX Design  
+- Created high-fidelity prototypes for key features including dashboard, transactions, payments, and profile management.  
+- Applied user-centered design principles and coordinated design improvements based on feedback and iteration.  
 
 ---
 
-## REFERENCES
+## References
+**Nomonde Jekeqa** – 072 965 9797  
+**Mangqegelana Sinethemba** – 079 079 3680  
 
-**Nomonde Jekeqa**  
- 072 965 9797  
+---
 
-**Mangqegelana Sinethemba**  
- 079 079 3680
-
-🎥 Mock Interview Video
+🎥 **Mock Interview Video**
 
 <video width="600" controls>
   <source src="4880ED72-56B9-4631-8048-1D59070CD55B.mp4" type="video/mp4">
 </video>
 
+---
+
 ## Reflection: Coding My CV Using Markdown (STAR Method)
 
 ### Situation
-During the development of my digital portfolio, I was required to create and present my CV using GitHub Markdown. This was a new experience for me because I was used to creating CVs with traditional word-processing tools, where formatting is done visually rather than through code. This required me to approach document creation in a more technical and structured way.
+During the development of my digital portfolio, I was required to create and present my CV using GitHub Markdown. This was a new experience for me because I was used to creating CVs with traditional word-processing tools, where formatting is done visually rather than through code.  
 
 ### Task
-My task was to transform my CV into a well-structured, professional, and readable document using Markdown. The CV needed to include key sections such as contact details, profile, technical skills, education, project experience, and references, while ensuring that it displayed correctly on GitHub and maintained a professional standard suitable for potential employers.
+Transform my CV into a well-structured, professional, and readable document using Markdown. The CV needed to include key sections such as contact details, profile, technical skills, education, project experience, and references, while ensuring that it displayed correctly on GitHub and maintained a professional standard suitable for potential employers.  
 
 ### Action
-To complete this task, I first planned the structure of my CV by organising the sections in a logical order to ensure a smooth flow of information.
-
-I then learned and applied Markdown syntax, using:
-- Headings (`#`, `##`, `###`) to separate sections  
-- Bullet points (`-`) to improve readability  
-- Bold text (`**text**`) for emphasis  
-- Horizontal lines (`---`) to organise content  
-
-What was different for me is that I had to think like a developer, focusing on structure and clean formatting rather than relying on visual editing tools.
-
-I also wrote concise and clear content, especially in my project experience, where I highlighted my role and the technologies used.
-
-I tested and refined my CV directly on GitHub by uploading and previewing the file, fixing spacing, alignment, and formatting issues. This process helped me develop attention to detail, as even small syntax errors affected how the document was displayed.
+- Planned the structure of my CV by organising sections logically.  
+- Learned and applied Markdown syntax: headings, bullet points, bold text, and horizontal lines.  
+- Wrote concise and clear content, especially in project experience, highlighting my role and technologies used.  
+- Tested and refined formatting directly on GitHub, fixing spacing, alignment, and formatting issues.  
 
 ### Result
-As a result, I successfully created a clean, structured, and professional CV that is easy to read and accessible online. The final document is consistent, well-organised, and ready to be published on GitHub Pages.
+Created a clean, structured, and professional CV that is easy to read and accessible online. Improved technical communication, attention to detail, and confidence in using GitHub for documentation.  
 
-Through this process, I learned how Markdown can be used as a professional tool for documentation. I improved my ability to structure information clearly, developed stronger attention to detail, and gained practical experience using GitHub for real-world tasks.
-
-This experience enhanced my technical communication skills and prepared me for industry practices where developers use platforms like GitHub to present and manage their work. It also increased my confidence in learning and applying new technologies.
-
----
-
-## What Was Easy and What Was Difficult
-
-### Easy
-- Organising content into sections was straightforward  
-- Basic Markdown syntax was easy to learn and apply  
-- GitHub preview made it easy to fix formatting issues  
-
-### Difficult
-- Managing spacing and line breaks required trial and error  
-- Keeping formatting consistent across sections needed attention to detail  
-- Deciding how much detail to include in each project was challenging  
+**Easy:** Organising content, learning basic Markdown, previewing fixes.  
+**Difficult:** Managing spacing/line breaks, keeping formatting consistent, deciding project detail level.  
 
 ---
 
-
-
-
-## Mock Interview Video Reflection (STAR Method)
+## Reflection: Mock Interview Video (STAR Method)
 
 ### Situation
-As part of my digital portfolio, I was required to record and include a mock interview video. This video was important because it demonstrates my communication skills, confidence, and readiness for a professional work environment.
+As part of my digital portfolio, I was required to record and include a mock interview video to demonstrate communication skills, confidence, and readiness for a professional work environment.  
 
 ### Task
-My task was to prepare for the interview, record a clear and professional video, and upload and embed it into my GitHub Pages portfolio so that it could be viewed directly online.
+Prepare for the interview, record a clear and professional video, and embed it into GitHub Pages.  
 
 ### Action
-To complete this task, I first prepared by practicing common interview questions to ensure that my answers were clear, relevant, and well-structured.
-
-I then recorded the video in a quiet environment, making sure that the audio was clear and the lighting was suitable. After recording, I saved the video in MP4 format so it could be supported on web platforms.
-
-What was different and challenging for me was uploading and embedding the video into GitHub. I had to:
-- Upload the video file correctly into my repository  
-- Use an HTML video tag in my file  
-- Ensure the file path was correct  
-- Wait for GitHub Pages to deploy the changes  
-
-It took several attempts before the video worked properly. I had to troubleshoot issues such as incorrect file paths and delays in deployment. This required patience and problem-solving, and it helped me understand how GitHub handles media files.
+- Practiced common interview questions to ensure clarity and structure.  
+- Recorded the video in a quiet environment with clear audio and proper lighting.  
+- Uploaded the video file to GitHub, embedded it using an HTML `<video>` tag, and troubleshot file path and deployment issues.  
 
 ### Result
-As a result, I successfully embedded the mock interview video into my portfolio, and it plays correctly on GitHub Pages. The final outcome demonstrates both my communication skills and my ability to present work professionally online.
+Successfully embedded the mock interview video into my portfolio. Demonstrated communication skills and technical ability. Improved confidence, problem-solving skills, and experience handling media in web portfolios.  
 
-Through this experience, I improved my confidence in speaking, developed better preparation techniques for interviews, and gained practical experience in handling and embedding media content in a web-based portfolio. It also strengthened my problem-solving skills and ability to work independently when facing technical challenges.
-
----
-
-## What Was Easy and What Was Difficult
-
-### Easy
-- Preparing and practicing interview answers was straightforward  
-- Recording the video was manageable with a quiet environment and proper lighting  
-
-### Difficult
-- Uploading and embedding the video on GitHub took time  
-- Fixing file path issues and ensuring correct display  
-- Waiting for GitHub Pages to redeploy changes  
-- Troubleshooting playback issues through multiple attempts
-
-# Reflection: Using GitHub Pages (STAR Method)
-
-## Situation
-I needed to publish my digital portfolio (CV and a mock interview video) so examiners and potential employers could view my work online. The assessment required the portfolio to be hosted on **GitHub Pages**, so I had to learn how to deploy a repository as a live website and ensure media files worked correctly on the published site.
-
-## Task
-Prepare the repository for GitHub Pages, add and organise portfolio files (README.md and video), configure Pages to publish from the correct branch, embed the mock interview video so it plays on the live site, and verify the site is accessible and displays correctly. I also had to document the steps I took and reflect on what I learned.
-
-## Action
-- **Created the repository** named `username.github.io` and added `README.md` with my CV content written in Markdown.  
-- **Uploaded the mock interview video** and other project artefacts, using clear filenames and descriptive commit messages (for example: *Add mock interview video*, *Embed video in README*, *Update CV content*).  
-- **Embedded the video** in `README.md` using an HTML `<video>` tag and ensured the source path matched the uploaded filename exactly.  
-- **Configured GitHub Pages** in repository settings and selected the main branch as the source; monitored deployment status.  
-- **Troubleshot issues**: corrected file path and filename typos, compressed the video when upload speed or file size caused problems, re-committed fixes, and waited for GitHub Pages to redeploy.  
-- **Verified the live site** on different devices and browsers to confirm layout and playback and recorded evidence of successful deployment.
-
-## Result
-The portfolio was successfully published on GitHub Pages and is accessible via the repository’s Pages URL. The CV displays correctly and the mock interview video plays on the live site. The process produced a professional, shareable link I can include in submissions and applications and improved my skills in repository management and static site deployment.
+**Easy:** Preparing answers, recording in a suitable environment.  
+**Difficult:** Uploading/embedding video, fixing file paths, waiting for redeployment.  
 
 ---
 
-## What was easy
-- **Creating the repository** and writing the CV in Markdown was straightforward.  
-- **Using Git commits** to track changes helped me revert mistakes when needed.  
-- **Previewing changes** in the GitHub web editor gave quick feedback on formatting.
+## Reflection: Using GitHub Pages (STAR Method)
 
-## What was difficult
-- **Uploading large media files** took time and sometimes required compression to reduce file size.  
-- **File path and filename issues** caused playback failures until corrected (filenames are case-sensitive).  
-- **Waiting for redeploy** after each change added delays; I had to be patient and re-check the live site.  
-- **Cross-browser/device testing** required extra checks to ensure consistent layout and playback.
+### Situation
+I needed to publish my digital portfolio (CV and mock interview video) online via GitHub Pages.  
 
+### Task
+Prepare the repository, configure GitHub Pages, embed video, and ensure accessibility.  
 
+### Action
+- Created repository `username.github.io` and added CV in Markdown.  
+- Uploaded video and embedded it with correct file paths.  
+- Configured GitHub Pages settings and monitored deployment.  
+- Troubleshot issues with filenames, compression, and redeployment delays.  
+- Verified site across devices and browsers.  
 
+### Result
+Portfolio successfully published with a professional, shareable link. Strengthened skills in repository management, static site deployment, and cross-browser testing.  
 
+**Easy:** Repository setup, writing CV in Markdown, using Git commits.  
+**Difficult:** Uploading large files, correcting file paths, waiting for redeployment, ensuring cross-browser consistency.  
 
