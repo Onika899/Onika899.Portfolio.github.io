@@ -124,10 +124,6 @@ This experience enhanced my technical communication skills and prepared me for i
 
 ---
 
-## Conclusion
-Coding my CV in Markdown was a valuable learning experience that helped me think more like a developer when presenting information. I learned to focus on structure, clarity, and consistency rather than only visual design. This experience has prepared me to create professional documentation using developer tools and strengthened my readiness for the workplace.
-
----
 
 
 
@@ -169,9 +165,41 @@ Through this experience, I improved my confidence in speaking, developed better 
 - Uploading and embedding the video on GitHub took time  
 - Fixing file path issues and ensuring correct display  
 - Waiting for GitHub Pages to redeploy changes  
-- Troubleshooting playback issues through multiple attempts  
+- Troubleshooting playback issues through multiple attempts
+
+# Reflection: Using GitHub Pages (STAR Method)
+
+## Situation
+I needed to publish my digital portfolio (CV and a mock interview video) so examiners and potential employers could view my work online. The assessment required the portfolio to be hosted on **GitHub Pages**, so I had to learn how to deploy a repository as a live website and ensure media files worked correctly on the published site.
+
+## Task
+Prepare the repository for GitHub Pages, add and organise portfolio files (README.md and video), configure Pages to publish from the correct branch, embed the mock interview video so it plays on the live site, and verify the site is accessible and displays correctly. I also had to document the steps I took and reflect on what I learned.
+
+## Action
+- **Created the repository** named `username.github.io` and added `README.md` with my CV content written in Markdown.  
+- **Uploaded the mock interview video** and other project artefacts, using clear filenames and descriptive commit messages (for example: *Add mock interview video*, *Embed video in README*, *Update CV content*).  
+- **Embedded the video** in `README.md` using an HTML `<video>` tag and ensured the source path matched the uploaded filename exactly.  
+- **Configured GitHub Pages** in repository settings and selected the main branch as the source; monitored deployment status.  
+- **Troubleshot issues**: corrected file path and filename typos, compressed the video when upload speed or file size caused problems, re-committed fixes, and waited for GitHub Pages to redeploy.  
+- **Verified the live site** on different devices and browsers to confirm layout and playback and recorded evidence of successful deployment.
+
+## Result
+The portfolio was successfully published on GitHub Pages and is accessible via the repository’s Pages URL. The CV displays correctly and the mock interview video plays on the live site. The process produced a professional, shareable link I can include in submissions and applications and improved my skills in repository management and static site deployment.
 
 ---
 
-## Conclusion
-Recording and embedding the mock interview video was a valuable learning experience. It helped me improve my communication and presentation skills while also exposing me to real technical challenges. I learned how to manage and troubleshoot media files in GitHub, which is an important skill for building professional portfolios. This experience has increased my confidence and better prepared me for real interview situations and workplace expectations.
+## What was easy
+- **Creating the repository** and writing the CV in Markdown was straightforward.  
+- **Using Git commits** to track changes helped me revert mistakes when needed.  
+- **Previewing changes** in the GitHub web editor gave quick feedback on formatting.
+
+## What was difficult
+- **Uploading large media files** took time and sometimes required compression to reduce file size.  
+- **File path and filename issues** caused playback failures until corrected (filenames are case-sensitive).  
+- **Waiting for redeploy** after each change added delays; I had to be patient and re-check the live site.  
+- **Cross-browser/device testing** required extra checks to ensure consistent layout and playback.
+
+
+
+
+
