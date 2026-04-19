@@ -126,3 +126,50 @@ This experience enhanced my technical communication skills and prepared me for i
 
 ## Conclusion
 Coding my CV in Markdown was a valuable learning experience that helped me think more like a developer when presenting information. I learned to focus on structure, clarity, and consistency rather than only visual design. This experience has prepared me to create professional documentation using developer tools and strengthened my readiness for the workplace.
+
+---
+
+## Mock Interview Video Reflection (STAR Method)
+
+### Situation
+As part of my digital portfolio, I was required to record and include a mock interview video. This video was important because it demonstrates my communication skills, confidence, and readiness for a professional work environment.
+
+### Task
+My task was to prepare for the interview, record a clear and professional video, and upload and embed it into my GitHub Pages portfolio so that it could be viewed directly online.
+
+### Action
+To complete this task, I first prepared by practicing common interview questions to ensure that my answers were clear, relevant, and well-structured.
+
+I then recorded the video in a quiet environment, making sure that the audio was clear and the lighting was suitable. After recording, I saved the video in MP4 format so it could be supported on web platforms.
+
+What was different and challenging for me was uploading and embedding the video into GitHub. I had to:
+- Upload the video file correctly into my repository  
+- Use an HTML video tag in my file  
+- Ensure the file path was correct  
+- Wait for GitHub Pages to deploy the changes  
+
+It took several attempts before the video worked properly. I had to troubleshoot issues such as incorrect file paths and delays in deployment. This required patience and problem-solving, and it helped me understand how GitHub handles media files.
+
+### Result
+As a result, I successfully embedded the mock interview video into my portfolio, and it plays correctly on GitHub Pages. The final outcome demonstrates both my communication skills and my ability to present work professionally online.
+
+Through this experience, I improved my confidence in speaking, developed better preparation techniques for interviews, and gained practical experience in handling and embedding media content in a web-based portfolio. It also strengthened my problem-solving skills and ability to work independently when facing technical challenges.
+
+---
+
+## What Was Easy and What Was Difficult
+
+### Easy
+- Preparing and practicing interview answers was straightforward  
+- Recording the video was manageable with a quiet environment and proper lighting  
+
+### Difficult
+- Uploading and embedding the video on GitHub took time  
+- Fixing file path issues and ensuring correct display  
+- Waiting for GitHub Pages to redeploy changes  
+- Troubleshooting playback issues through multiple attempts  
+
+---
+
+## Conclusion
+Recording and embedding the mock interview video was a valuable learning experience. It helped me improve my communication and presentation skills while also exposing me to real technical challenges. I learned how to manage and troubleshoot media files in GitHub, which is an important skill for building professional portfolios. This experience has increased my confidence and better prepared me for real interview situations and workplace expectations.
