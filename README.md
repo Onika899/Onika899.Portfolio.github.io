@@ -77,10 +77,10 @@ Diploma in ICT: Application Development – Final Year
 ## Reflection: Coding My CV Using Markdown (STAR Method)
 
 ### Situation  
-I was required to create and present my CV using GitHub Flavoured Markdown for my digital portfolio. This meant moving away from traditional word-processing tools and approaching the CV as a structured document written in code. It was a new experience because I had to think like a developer, focusing on syntax, structure, and consistency rather than relying on visual formatting.
+I was required to create and present my CV using GitHub Flavoured Markdown for my digital portfolio. This meant moving away from traditional word-processing tools and approaching the CV as a structured document written in code. It was a new experience because I had to think like a developer, focusing on syntax, structure, and consistency rather than relying on visual formatting. This was important because it prepared me for industry practices where Markdown and GitHub are widely used for documentation and professional presentation.
 
 ### Task  
-My task was to transform my CV into a professional, well-structured, and readable Markdown document that displayed correctly on GitHub. It needed to include all key sections such as contact details, profile, technical skills, education, project experience, and references, while maintaining a clean and consistent layout suitable for potential employers.
+My task was to transform my CV into a professional, well-structured, and readable Markdown document that displayed correctly on GitHub. It needed to include all key sections such as contact details, profile, technical skills, education, project experience, and references, while maintaining a clean and consistent layout suitable for potential employers. Beyond the assessment, the CV also needed to be shareable online, giving me a professional link I could use for job applications.
 
 ### Action  
 - Planned the CV structure by outlining sections in a logical order for clarity.  
@@ -88,10 +88,11 @@ My task was to transform my CV into a professional, well-structured, and readabl
 - Wrote concise project descriptions highlighting my role and the technologies used.  
 - Uploaded the `README.md` file to GitHub, previewed the rendering, and fixed spacing and indentation issues.  
 - Used Git commits with clear messages to track changes and maintain version history.  
-- Iterated multiple times to refine formatting and ensure the CV looked consistent across GitHub Pages.
+- Iterated multiple times to refine formatting and ensure the CV looked consistent across GitHub Pages.  
+- Focused on readability and professional tone, ensuring the CV could be understood easily by both examiners and potential employers.  
 
 ### Result  
-The final CV was clean, structured, and professional. It displayed correctly on GitHub and was easy to read online. This process improved my documentation skills, strengthened my attention to detail, and increased my confidence in using Git and GitHub for professional presentation. It also prepared me for industry practices where Markdown and version control are commonly used.
+The final CV was clean, structured, and professional. It displayed correctly on GitHub and was easy to read online. This process improved my documentation skills, strengthened my attention to detail, and increased my confidence in using Git and GitHub for professional presentation. It also prepared me for industry practices where Markdown and version control are commonly used. Most importantly, I now have a shareable CV link that I can use for job applications, making my portfolio accessible beyond the classroom.
 
 ---
 
@@ -101,6 +102,7 @@ The final CV was clean, structured, and professional. It displayed correctly on 
 - Organising content into sections.  
 - Learning and applying basic Markdown syntax.  
 - Using GitHub’s preview feature to quickly identify formatting issues.  
+- Updating content quickly without worrying about formatting styles.  
 
 **Difficult**  
 - Managing spacing and line breaks to ensure correct rendering.  
@@ -111,43 +113,39 @@ The final CV was clean, structured, and professional. It displayed correctly on 
 ---
 ## Mock Interview Video Reflection (STAR Method)
 
-### Situation
-As part of my digital portfolio, I was required to record and include a mock interview video. This video was important because it demonstrates my communication skills, confidence, and readiness for a professional work environment.
+### Situation  
+As part of my digital portfolio, I was required to record and include a mock interview video. This video was important because it demonstrates my communication skills, confidence, and readiness for a professional work environment. Beyond the assessment, it also gave me the opportunity to practice professional communication and showcase my readiness to potential employers.
 
-### Task
-My task was to prepare for the interview, record a clear and professional video, and upload and embed it into my GitHub Pages portfolio so that it could be viewed directly online.
+### Task  
+My task was to prepare for the interview, record a clear and professional video, and upload and embed it into my GitHub Pages portfolio so that it could be viewed directly online. The video needed to be accessible, reliable, and presented in a way that reflected my professionalism.
 
-### Action
-To complete this task, I first prepared by practicing common interview questions to ensure that my answers were clear, relevant, and well-structured.
+### Action  
+- Prepared by practicing common interview questions to ensure that my answers were clear, relevant, and well-structured.  
+- Recorded the video in a quiet environment, making sure that the audio was clear and the lighting was suitable.  
+- Saved the video in MP4 format so it would be supported on web platforms.  
+- Uploaded the video file correctly into my repository and used an HTML `<video>` tag in my `README.md`.  
+- Ensured the file path and filename were correct to avoid playback errors.  
+- Waited for GitHub Pages to deploy the changes and tested the video on the live site.  
+- Troubleshot issues such as incorrect file paths, delays in deployment, and playback errors.  
+- Verified the video worked consistently across different browsers and devices.  
 
-I then recorded the video in a quiet environment, making sure that the audio was clear and the lighting was suitable. After recording, I saved the video in MP4 format so it could be supported on web platforms.
-
-What was different and challenging for me was uploading and embedding the video into GitHub. I had to:
-- Upload the video file correctly into my repository  
-- Use an HTML video tag in my file  
-- Ensure the file path was correct  
-- Wait for GitHub Pages to deploy the changes  
-
-It took several attempts before the video worked properly. I had to troubleshoot issues such as incorrect file paths and delays in deployment. This required patience and problem-solving, and it helped me understand how GitHub handles media files.
-
-### Result
-As a result, I successfully embedded the mock interview video into my portfolio, and it plays correctly on GitHub Pages. The final outcome demonstrates both my communication skills and my ability to present work professionally online.
-
-Through this experience, I improved my confidence in speaking, developed better preparation techniques for interviews, and gained practical experience in handling and embedding media content in a web-based portfolio. It also strengthened my problem-solving skills and ability to work independently when facing technical challenges.
+### Result  
+The mock interview video was successfully embedded into my portfolio and plays correctly on GitHub Pages. The final outcome demonstrates both my communication skills and my ability to present work professionally online. Through this experience, I improved my confidence in speaking, developed better preparation techniques for interviews, and gained practical experience in handling and embedding media content in a web-based portfolio. I now have a professional video embedded in my portfolio that I can share with potential employers. This process also strengthened my problem-solving skills and ability to work independently when facing technical challenges.
 
 ---
 
 ## What Was Easy and What Was Difficult
 
-### Easy
-- Preparing and practicing interview answers was straightforward  
-- Recording the video was manageable with a quiet environment and proper lighting  
+**Easy**  
+- Preparing and practicing interview answers was straightforward.  
+- Recording the video was manageable with a quiet environment and proper lighting.  
 
-### Difficult
-- Uploading and embedding the video on GitHub took time  
-- Fixing file path issues and ensuring correct display  
-- Waiting for GitHub Pages to redeploy changes  
-- Troubleshooting playback issues through multiple attempts  
+**Difficult**  
+- Uploading and embedding the video on GitHub took time.  
+- Fixing file path issues and ensuring correct display.  
+- Waiting for GitHub Pages to redeploy changes.  
+- Troubleshooting playback issues through multiple attempts.  
+- Ensuring the video worked consistently across different browsers and devices.  
 
 ---
 
