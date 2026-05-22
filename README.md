@@ -153,7 +153,11 @@ The mock interview video was successfully embedded into my portfolio and plays c
 
 ---
 
+## Published on GitHub Pages
 
+### Evidence
+
+![GitHub Pages Evidence](github-pages.png)
 # Reflection: Using GitHub Pages (STAR Method)
 
 ## Situation  
