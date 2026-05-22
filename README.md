@@ -3,6 +3,8 @@
 ## GitHub Student Account Evidence
 ![Github Profile](github-profile.png)
 
+## CV Coded Using Markdown Language Evidence
+![CV Markdown Evidence](cv-markdown.png)
 ## CONTACT
 📞 064-062-6907  
 ✉️ 231089945@mycput.ac.za  
