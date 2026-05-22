@@ -2,7 +2,7 @@
 # ONIKA GOBANE
 ## GitHub Student Account Evidence
 
-![GitHub Profile](Github%20Profile.png)
+![Github Profile](Github%20Profile.png)
 
 ## CONTACT
 📞 064-062-6907  
