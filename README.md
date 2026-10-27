@@ -541,18 +541,22 @@ The core front-end screens were completed on the planned days, and the sprint ad
 An Agile logbook records the team's daily stand-ups, sprint plans and retrospective notes. Each entry answers three questions: what did I complete since the last stand-up, what am I planning before the next one, and what are my impediments (risks or problems).
 
 - **Period covered:** 28 July to 7 August 2026 (the front-end build sprint), with eight stand-up entries. This is the sprint in which we built the front-end. The team completed the remaining work and deployed the website after this period.  
-- **Taskboard walkthrough:** each logbook also records a taskboard snapshot and four questions about the work.  
-
-### Agile Logbook documents
-
-1. [View Agile Logbook, Part 1](./PartLink_Agile_Logbook%20%284%29%20%282%29.docx)  
-2. [View Agile Logbook, Part 2](./PartLink_Agile_Logbook%20%284%29%20%283%29.docx)  
-3. [View Agile Logbook, Part 3](./PartLink_Agile_Logbook%20%284%29%20%284%29.docx)  
-4. [View Agile Logbook, 4 to 7 August](./PartLink_Agile_Logbook%204-7%20Aug%20%281%29.docx)  
+- **Taskboard walkthrough:** each logbook also records a taskboard snapshot and four questions about the work.
+  
+   
+###  Agile Logbook, Part 1
 
 ![Agile Logbook Evidence](logbook-evidence.png)
 
+###  Agile Logbook, Part 2
+
 ![Agile Logbook Evidence](logbook-evidence1.png)
+
+###  Agile Logbook, Part 3
+
+
+###  Agile Logbook, Part 4 
+
 
 ### Logbook summary
 
