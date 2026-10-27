@@ -201,46 +201,73 @@ The portfolio was successfully deployed using GitHub Pages and is accessible via
 
 **Contents:** [Agile Team Charter](#agile-team-charter-partlink-project) | [User Stories and Tasks](#user-stories-and-tasks-partlink-project) | [Product Backlog](#product-backlog-partlink-project) | [Sprint Backlog](#sprint-backlog-partlink-project) | [Agile Logbook](#agile-logbook-partlink-project)
 
+## About the project
+PartLink is a mobile-first digital marketplace that connects vehicle owners, mechanics and small transport operators in Khayelitsha with verified car parts sellers. Our community survey found that residents lose between 30 minutes and several hours (and sometimes days or weeks) finding the right part, and travel anywhere from 10 to 15 km to more than 100 km to get it. Buyers also worry about low-quality and stolen parts. To plan, build and track the project we used Agile methods: a Kanban board on Trello, short sprints, daily stand-ups and a logbook. The five sections below show how our team worked, and each one has evidence followed by my reflection.
+
 ---
 
 # Agile Team Charter (PartLink Project)
 
 ## Evidence: Team Charter
 
+An Agile team charter is a shared agreement that sets out a team's purpose, values, working agreements and boundaries, so that everyone knows how the team will work before the work starts. Ours is a signed document that every member committed to.
+
 - **Objective:** To develop and launch PartLink, a trusted digital marketplace connecting vehicle owners, mechanics and small transport operators in Khayelitsha with verified car parts sellers.  
+- **Success definition:** PartLink reduces the time it takes to source car parts, improves accessibility, and gives users reliable connections to verified sellers.  
 - **Team members:** Hillary Itlhabanyeng, Inam Klaas, Onika Gobane, Siphesihle Khinase, Sesethu Nciti, Nondumiso Ngobese, Liyabona Ngece.  
-- **Core values:** Respect, transparency, accountability, trust, learning mindset and collaboration.  
-- **Ways of working:** Kanban on Trello, daily stand-ups, and a weekly Thursday meeting to review the logbook and plan upcoming tasks.  
-- **Definition of Done:** work aligned with project requirements, documentation completed and reviewed, tasks updated in the Agile logbook, deliverables meeting quality standards, and team agreement that the objectives are achieved.  
 - **Document evidence:** [View Agile Team Charter](./Agile%20Team%20Charter%20%281%29.docx)
 
 ![Agile Team Charter Evidence](charter-evidence.png)
 
+### The charter at a glance
+
+| Section | What we agreed |
+| --- | --- |
+| **Roles** | Team Leader (Hillary), Researcher (Inam), Writer (Onika), Designer (Siphesihle). The Team Leader coordinates the project and aligns the vision with user needs; the Researcher gathers and validates evidence; the Writer produces the documentation; the Designer creates the UI/UX and branding |
+| **Ways of working** | Kanban managed on Trello; daily stand-ups to discuss progress and blockers; a weekly Thursday meeting to review the logbook and plan upcoming tasks |
+| **Working agreements** | Show up prepared and on time; respect timeboxes; give constructive feedback; raise blockers early; commit to continuous improvement; stay transparent about tasks and progress; collaborate actively |
+| **Communication** | WhatsApp for real-time updates, Google Docs for collaboration, and meetings for structured updates. Urgent issues get quick responses on WhatsApp |
+| **Decision-making** | Decisions are discussed in team meetings first. If we are stuck they go to the Team Leader, and the final resolution is by group consensus |
+| **Definition of Done** | Work is aligned with requirements, documentation is completed and reviewed, tasks are updated in the Agile logbook, deliverables meet quality standards, and the team agrees the objectives are achieved |
+| **Core values** | Respect, transparency, accountability, trust, learning mindset, collaboration |
+| **Risks** | Incomplete research data, delays in deliverables, communication gaps |
+| **Constraints** | Limited time because of academic deadlines, reliance on free tools, and varying skill levels |
+
+### Changes after the charter was written
+The charter was written with Hillary as Team Leader. On 4 August 2026 Hillary left the group and I became team lead, and on 7 August Liyabona Ngece joined the team. The roles table in the charter has not yet been updated to show these changes.
+
 ## Reflection: Agile Team Charter (STAR Method)
 
 ### Situation  
-Our assessment required the team to agree how we would work before building anything. As a team building PartLink, we needed a shared charter that set out our purpose, roles, communication, decision-making and what "done" means. My role in the team was Writer, so the charter was part of the documentation I was responsible for.
+Our assessment required each team to agree how it would work before building anything. Our team had come together to solve a real problem in Khayelitsha: people struggle to find affordable, reliable car parts quickly and safely. Seven of us signed the charter, and my role in the team was Writer, so the charter was part of the documentation I was responsible for. It mattered because it was the document the rest of our Agile practice depended on, including the stand-ups, the weekly Thursday review, the Trello board and our Definition of Done.
 
 ### Task  
-My task was to take part in creating the charter and commit to it. As the team's Writer, my responsibility was the team's documentation. I wrote up the charter with the team's agreements.
+My task was to take part in creating the charter and commit to it. The charter had to cover our purpose and success definition, who does what, how we communicate and make decisions, what "done" means, and the risks we could see coming. As Writer, I wrote up the charter with the team's agreements, so that it was clear, complete and easy for every member to follow.
 
 ### Action  
-- Took part in agreeing our mission, roles, values and working agreements with the team.  
-- Documented the working agreements: daily stand-ups, a weekly Thursday review and a clear Definition of Done.  
 - Wrote up the charter document, covering our purpose, roles, working agreements, communication, decision-making and the Definition of Done.  
+- Recorded the team's mission and what success looks like, so that every task could be checked against the same goal.  
+- Documented the four roles and what each one is responsible for, so that the research, writing, design and leadership work had clear owners.  
+- Wrote down the working agreements (turning up prepared, respecting timeboxes, raising blockers early, giving constructive feedback) so they could be used to hold each other accountable.  
+- Set out how we communicate (WhatsApp, Google Docs and meetings) and an escalation path for decisions: team meeting, then Team Leader, then group consensus.  
+- Listed the risks and constraints we could already see, such as incomplete research data, tight academic deadlines and free tools.  
+- Put the charter into practice through our daily stand-ups and the weekly Thursday review.  
 - When Hillary left the group on 4 August 2026, I stepped up as team lead and the team regrouped. I updated the Trello board to reflect the new plan and reassigned her outstanding cards across the team.  
 
 ### Result  
-The charter gave us shared working agreements, and when the team changed on 4 August we regrouped, reassigned Trello cards and kept going with our stand-ups. The charter also had to be updated when team members changed, which showed me that a charter has to be kept up to date, because the roles in it no longer matched the team after Hillary left and Liyabona joined.
+The charter gave us shared rules from the start, and our logbook shows them being used. Stand-ups were recorded every working day from 28 July to 7 August, and each entry lists the team's impediments, which is the "raise blockers early" agreement in action. When the team changed on 4 August we regrouped quickly: we agreed a lead, reassigned cards and kept the sprint moving. The charter gave us a way to handle that change calmly instead of letting the project stall. The change also showed me that a charter has to be kept up to date, because the roles in it no longer matched the team after Hillary left and Liyabona joined. Next time I would update the roles table on the same day the team changes. I would also tighten the decision-making section, which lists several methods (consensus, team vote, Product Owner and Agile lead), by stating which one the team uses most.
 
-### What Was Easy and What Was Difficult
+---
+
+## What Was Easy and What Was Difficult
 
 **Easy**  
-- Writing up the charter once the team had agreed its values and working agreements.  
+- Writing up the charter once the team had agreed its values and working agreements. Most of the content came from decisions the team had already made, so my job was to record it clearly.  
+- Organising the charter into clear sections (purpose, roles, ways of working, communication, decisions, Definition of Done, risks), which made it simple to follow and to refer back to.  
 
 **Difficult**  
-- Our member list changed during the project, so the roles in the charter no longer matched the team.  
-- Keeping the charter and other documents up to date as the team changed.  
+- Keeping the charter and our other documents up to date as the team changed. When Hillary left and Liyabona joined, the Trello board, logbook and charter all needed to show the same team, and updating all three at the same time took extra effort.  
+- Making sure every document told the same story. A marker or teammate reading the charter should see the same roles and team as in the logbook, so I had to check them against each other.  
 
 ---
 
@@ -248,48 +275,73 @@ The charter gave us shared working agreements, and when the team changed on 4 Au
 
 ## Evidence: User Stories and Task Breakdown
 
-- **Overview:** Based on our community survey (21 responses), we wrote 22 user stories in the format *As a [user], I want to [goal], so that [benefit]*. They are grouped into six areas: accounts, discovering PartLink, seller listings, finding and buying parts, needs of specific users, and trust and safety. Each story has acceptance criteria and tasks.  
+A user story is a short description of a feature written from the end user's point of view, in the format *As a [user], I want to [goal], so that [benefit]*. Each story is then split into tasks the developers can build.
+
+- **Overview:** Based on our community survey, we wrote 22 user stories, each with acceptance criteria and tasks.  
 - **Priorities (MoSCoW):** 11 Must, 8 Should and 3 Could.  
 - **User groups:** car owners, mechanics, small transport business owners, sellers, car enthusiasts and administrators.  
 - **Document evidence:** [View PartLink User Stories PDF](./PartLink_User_Stories.pdf)
 
 ![User Stories Evidence](user-stories-evidence.png)
 
+### How the 22 stories are organised
+
+| Area | Stories | Examples |
+| --- | --- | --- |
+| Accounts and profile | 4 | Register, log in, reset a password, manage a profile |
+| Discovering PartLink | 1 | Understand PartLink and contact the team |
+| Seller listings | 2 | List a car part, manage my listings |
+| Finding and buying parts | 6 | Search, filter, view details, compare prices, cart, secure checkout |
+| Needs of specific users | 4 | Find parts near me, get a vehicle back on the road, notifications, request a part |
+| Trust and safety | 5 | Message a seller, verified sellers, verify sellers, ratings and reviews, report a listing |
+
 ### Key user story examples
 
 1. **US-06: List a car part (Must).** *As a seller, I want to list my car parts with photos, condition and price, so that buyers can trust what they are buying.*  
+   - *Acceptance criteria:* a listing needs a part name, brand and model, condition, price, location and at least one photo; it appears in search once saved.  
    - *Tasks:* build the listing form in React, add photo upload, save listings through the Java API to MySQL.  
 2. **US-09: Filter results (Must).** *As a buyer, I want to filter car parts by brand, model and price, so that I can quickly find what I need.*  
+   - *Acceptance criteria:* filters can be combined; a minimum and maximum price can be set; a clear-all option resets the filters.  
    - *Tasks:* build the filter controls, pass filters to the search endpoint, test filter combinations.  
-3. **US-19: See which sellers are verified (Must).** *As a buyer, I want to see which sellers are verified, so that I avoid scams, low-quality parts and stolen parts.*  
+3. **US-14: Find parts near me (Should).** *As a mechanic, I want to see which parts are available near me, so that I can finish repairs on time and keep my customers.*  
+   - *Acceptance criteria:* listings can be filtered or sorted by location or distance; each listing shows its availability.  
+   - *Tasks:* add a location field to listings, build the location filter and sort, test with listings from different areas.  
+4. **US-19: See which sellers are verified (Must).** *As a buyer, I want to see which sellers are verified, so that I avoid scams, low-quality parts and stolen parts.*  
+   - *Acceptance criteria:* a verified badge shows on listings and profiles; unverified sellers are clearly labelled.  
    - *Tasks:* add a verified flag to the seller record, build the badge component, show the badge on details and profile screens.  
 
 ## Reflection: User Stories and Tasks (STAR Method)
 
 ### Situation  
-Our survey showed long travel times, unreliable local stock and a strong willingness to pay for convenience. We needed to turn that research into work the team could plan and build. As the team's Writer, I used the survey and our business case to understand who needs PartLink and why.
+Our community survey (21 responses) gave us strong evidence of the problem. Most respondents owned a vehicle or ran a repair shop, and they reported spending anywhere from 30 minutes to several hours, and sometimes days, getting a part. Their biggest frustrations were stock shortages, long distances, high prices and doubts about quality, and 90% said they would pay for convenience if parts were guaranteed to be in stock locally. Our business idea of a mobile app with verified sellers, reviews, secure payment and notifications was a direct answer to that. As the team's Writer, I used the survey and our business case to understand who needs PartLink and why, and the next step was to turn that into work the team could plan and build.
 
 ### Task  
-My task was to help turn our research and business idea into user stories from the buyer's and seller's point of view, and to break them into tasks for the React front-end, Java back-end and MySQL database. I wrote up the stories and their acceptance criteria in our documentation.
+My task was to help turn our research and business idea into user stories from the buyer's and seller's point of view, with acceptance criteria that say when a story is finished and tasks that the team could take on for the React front-end, Java back-end and MySQL database. I wrote up the stories and their acceptance criteria in our documentation, so that every member could see what each screen and feature needed.
 
 ### Action  
-- Used the findings from our community survey and our business case to decide what buyers and sellers need.  
-- Wrote stories in the "As a... I want to... so that..." format with acceptance criteria.  
-- Prioritised the stories using the MoSCoW method.  
-- Broke each story into tasks and linked them to our Trello cards.  
-- Documented the stories in a PDF with acceptance criteria and tasks, so the whole team could see what each screen needed.  
+- Went back to the survey results and business case to identify who PartLink serves: car owners, mechanics, small transport business owners, sellers, car enthusiasts and administrators.  
+- Wrote 22 stories in the "As a... I want to... so that..." format, so that each one states a user, a goal and a benefit.  
+- Grouped the stories into six areas (accounts, discovering PartLink, seller listings, finding and buying parts, needs of specific users, and trust and safety) to keep the list organised.  
+- Added two to three acceptance criteria to each story, so the team can test whether the story is really finished.  
+- Broke each story into tasks, such as building a screen in React, creating an endpoint in Java and saving data in MySQL.  
+- Prioritised the stories using the MoSCoW method: 11 Must, 8 Should and 3 Could.  
+- Linked each story to the screens in our 17-screen wireframe set, so that design and build work could be traced back to a story.  
+- Documented everything in a PDF with acceptance criteria and tasks, so the whole team could see what each screen needed.  
 
 ### Result  
-The stories gave the team clear direction and linked our build work to what the survey found. For example, the search, filter and listing stories matched the Home/Products and Car Part Listing screens that were built on 29 and 31 July. Looking back, I would estimate the tasks in each story before the sprint starts, so large stories are split into tasks that fit in a day.
+The stories gave the team clear direction and linked our build work to what the survey found. The logbook shows this in practice: the Registration and Login screens built on 30 July match US-01 and US-02, the Home/Products and Car Part Listing screens built on 29 and 31 July match the search, filter and listing stories (US-06, US-08, US-09), and the Cart and Checkout screens built on 31 July match US-12 and US-13. Writing stories also made me think about trust and safety early, which is why verified sellers are a "Must". Looking back, I would estimate the tasks in each story before the sprint starts, so large stories are split into tasks that fit in a day. A few stories, such as admin review, notifications and chat, do not yet have a screen in our 17 wireframes, so the design would need to be extended before they are built.
 
-### What Was Easy and What Was Difficult
+---
+
+## What Was Easy and What Was Difficult
 
 **Easy**  
-- Writing stories for buyers and sellers, because our survey and business case had already shown what they need.  
+- Writing stories for buyers and sellers, because our survey and business case had already shown what they need. The pain points (time, distance, stock, price and trust) turned directly into goals and benefits.  
+- Using the "As a... I want to... so that..." format, which kept each story short and focused on the user.  
 
 **Difficult**  
 - Splitting large stories, such as the whole front-end, into small tasks that could be finished in a day.  
-- Keeping the stories, Trello cards and documents consistent with each other.  
+- Keeping the stories, Trello cards and documents consistent with each other. When the plan changed (for example the lecturer's colour palette request on 31 July), the story list, the board and the logbook all had to be updated to match.  
 
 ---
 
@@ -297,8 +349,11 @@ The stories gave the team clear direction and linked our build work to what the 
 
 ## Evidence: Product Backlog Board
 
-- **Overview:** The product backlog is the prioritised list of all the work PartLink needs. It is managed on our Trello Kanban board and ordered by sprint, from research to integration.  
+A product backlog is a prioritised list of all the work a product needs, including features, fixes and improvements. Ours is managed on a Trello Kanban board and ordered by sprint, from research through to back-end integration.
+
 - **Live board:** [PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)  
+- **Board columns:** Product Backlog (work still to do), In Progress and Completed.  
+- **Sprints:** Sprint 1 Research and Validation (complete), Sprint 2 Wireframes and MVP Planning (complete), Sprint 3 Repository and Front-End (in progress during the logbook period), Sprint 4 Back-End Integration (upcoming).  
 
 | Priority | Backlog item | Sprint | Status |
 | --- | --- | --- | --- |
@@ -315,32 +370,39 @@ The stories gave the team clear direction and linked our build work to what the 
 
 ![Trello Product Backlog](trello-product-backlog.png)
 
+### Why the backlog is ordered this way
+Research and validation come first, because there was no point designing a solution before we had proved the problem was real. Wireframes and the MVP scope come next, so that development has a clear plan. Front-end development follows the wireframes, and back-end integration comes after, because it connects screens that already exist. The Requests screens are optional, because the app works without them.
+
 ## Reflection: Product Backlog (STAR Method)
 
 ### Situation  
-To control the scope of PartLink, the team needed one central list of everything the project required, from research through to connecting the front-end to the back-end. Our work covered research, design and development, so it had to be tracked in one place.
+Our project covered research, design and development, and the work was spread across seven team members. Without one list of everything the project needed, it would have been easy to lose track of what was finished, what was being worked on and what was still to come. Our work covered research, design and development, so it had to be tracked in one place, and the Trello Kanban board became our product backlog.
 
 ### Task  
-My task was to help build and maintain the backlog on Trello, prioritise it, and keep it aligned with our user stories. I updated the board as work moved and kept it consistent with our documents.
+My task was to help build and maintain the backlog on Trello, prioritise it, and keep it aligned with our user stories. I updated the board as work moved and kept it consistent with our documents, so that anyone in the team could open it and see the true state of the project.
 
 ### Action  
 - Organised the work into four sprints, from research and validation to back-end integration.  
-- Kept the board up to date as work moved between Product Backlog, In Progress and Completed.  
-- Added the colour palette page to the backlog after our lecturer asked for it on 31 July 2026.  
-- After Hillary left on 4 August 2026, updated the board and reassigned her outstanding cards across the team. I reassigned them across the three remaining members so that work could continue.  
+- Kept the board in three columns (Product Backlog, In Progress and Completed) and moved cards as work progressed. For example, the survey and business case, the 17 wireframes, the MVP and tech-stack decision and the GitHub repository all moved to Completed.  
+- Added the colour palette page to the backlog after our lecturer asked for it on 31 July 2026, so the new request was visible and tracked.  
+- After Hillary left on 4 August 2026, updated the board to match the new plan and reassigned her outstanding cards. I reassigned them across the three remaining members so that work could continue.  
+- Updated the board again on 7 August 2026 when Liyabona joined, so that she could see the project history and her upcoming back-end tasks.  
 - Kept the board and our documents in step with each other as work was completed.  
 
 ### Result  
-The backlog gave the team full visibility of what was done, in progress and still to do. For example, on 4 August the board showed Hillary's outstanding cards, so we could share them across the team. Next time I would add effort estimates to each backlog item before the sprint starts.
+The backlog gave the team full visibility of what was done, in progress and still to do. For example, on 4 August the board showed Hillary's outstanding cards, so we could share them across the team instead of losing that work. It also showed new members what had already been completed and what came next. Next time I would add effort estimates to each backlog item before the sprint starts, and I would split large items such as "front-end development in React" into smaller cards, so that progress is easier to measure.
 
-### What Was Easy and What Was Difficult
+---
+
+## What Was Easy and What Was Difficult
 
 **Easy**  
-- Moving cards across the Kanban columns and seeing progress straight away.  
+- Moving cards across the Kanban columns and seeing progress straight away, because the board showed the state of the project at a glance.  
+- Ordering the backlog by sprint, because the project followed a natural path from research to design to build.  
 
 **Difficult**  
-- Keeping the board accurate when the team changed and work had to be reassigned.  
-- Keeping the board and documents up to date at the same time.  
+- Keeping the board and documents up to date at the same time. Every change to the plan, such as the lecturer's request or the team change, meant updating Trello, the logbook and sometimes the charter or stories, and it was easy for one of them to fall behind.  
+- Keeping the board accurate when the team changed and work had to be reassigned, because each card had to be checked and given to the right person.  
 
 ---
 
@@ -348,8 +410,11 @@ The backlog gave the team full visibility of what was done, in progress and stil
 
 ## Evidence: Sprint 3, Repository and Front-End (28 July to 7 August 2026)
 
+A sprint backlog is the actionable plan for one sprint. It is made up of the items pulled from the product backlog, broken into tasks the team can finish within the sprint.
+
 - **Sprint goal:** Set up the GitHub repository and build the core front-end screens in React from our 17-screen wireframe set.  
 - **Live board:** [PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)  
+- **Ceremonies:** daily stand-ups and the weekly Thursday review from our charter.  
 
 | Day | Sprint task | Date | Status |
 | --- | --- | --- | --- |
@@ -364,35 +429,50 @@ The backlog gave the team full visibility of what was done, in progress and stil
 
 - **31/07/2026:** lecturer feedback asked for a colour palette page, which was added to the sprint.  
 - **04/08/2026:** Hillary left the group, I became team lead and her cards were reassigned.  
-- **07/08/2026:** Liyabona Ngece joined the team.  
+- **05/08/2026:** the brand colour palette, logo usage and typography were finalised so the palette page could be built.  
+- **07/08/2026:** Liyabona Ngece joined the team and was assigned to upcoming back-end integration tasks.  
 
 ![Trello Sprint Board](trello-sprint-board.png)
+
+### Sprint 3 review (based on the logbook)
+
+| What went well | What did not go well | What we would change |
+| --- | --- | --- |
+| The core screens were built on the planned days (28/07 to 31/07) | Styling consistency took longer than expected (30/07) | Agree shared styles and reusable components before building more screens |
+| The colour palette page was finished within two days of starting it | The palette needed several rounds of revision (05/08) | Agree brand decisions with the whole team earlier |
+| The team regrouped quickly after a member left (04/08) | Redistributing tasks and choosing a lead took most of a day (04/08) | Keep Trello assignments current so tasks can be handed over faster |
+| A new member was welcomed and onboarding was planned (07/08) | The workload was heavier with only three members (06/08) | Assign back-end tasks early so the new member can contribute |
 
 ## Reflection: Sprint Backlog (STAR Method)
 
 ### Situation  
-After wireframes and MVP planning were complete, the team needed to turn the backlog into daily, timeboxed work for Sprint 3. The wireframes gave us a clear guide, so the plan was to build the screens in order, a few each day.
+By the start of Sprint 3, research, wireframes and the MVP plan were complete, and the next step was to start building. The wireframes gave us a clear guide, so the plan was to build the screens in order, a few each day, with the 17-screen set as our target. The challenge was to turn that large goal into small daily tasks that the team could finish and show on the board.
 
 ### Task  
-My task was to help plan the sprint, assign the work and keep the board updated as tasks were completed. From 4 August I was also responsible for keeping the team organised as team lead. I worked on React front-end screens and the colour palette page.
+My task was to help plan the sprint, assign the work and keep the board updated as tasks were completed. I worked on React front-end screens and the colour palette page. From 4 August I was also responsible for keeping the team organised as team lead, which meant making sure the sprint kept moving after a member left.
 
 ### Action  
-- Planned one group of screens per day, from the repository on Day 1 to the Cart and Checkout screens on Day 4.  
-- Added the Settings, View Listing and Edit Listing screens and the colour palette page when they were needed.  
-- Updated the board and sprint plan on 4 August after the team changed.  
+- Planned one group of screens per day: the repository on Day 1, the public pages on Day 2, the account screens on Day 3, and the listing, cart and checkout screens on Day 4.  
 - Worked on React screens from our wireframes and on the colour palette page, and updated the board as each task was finished.  
+- Added the Settings, View Listing and Edit Listing screens and the colour palette page to the sprint when they were needed.  
+- Recorded the problems that came up each day (folder structure, reusable components and styling) so they could be solved quickly.  
+- Updated the board and sprint plan on 4 August after the team changed, so that Hillary's outstanding work was visible and reassigned.  
+- Prepared for Liyabona's arrival on 7 August by updating Trello and planning her onboarding and back-end tasks.  
 
 ### Result  
-The core front-end screens were completed on the planned days, and the sprint adapted to a new request and a team change. This taught me that a plan needs room for new requests and team changes. In Sprint 4 I would estimate every task before the sprint starts, so the plan reflects how long the work will really take.
+The core front-end screens were completed on the planned days, and the sprint adapted to a new request and a team change. By 7 August the main screens from our wireframes were built and the colour palette page was finished. This taught me that a plan needs room for new requests and team changes, because two unplanned things (the lecturer's palette page and Hillary leaving) both landed in the same sprint. In Sprint 4 I would estimate every task before the sprint starts, so the plan reflects how long the work will really take. I would also agree the API structure at the start of the sprint, because connecting the front-end to the Java back-end depends on it.
 
-### What Was Easy and What Was Difficult
+---
+
+## What Was Easy and What Was Difficult
 
 **Easy**  
-- Planning one group of screens per day, because the wireframes were already finished.  
+- Planning one group of screens per day, because the wireframes were already finished and told us exactly what to build.  
+- Showing progress, because completed screens could be moved to Completed on the board straight away.  
 
 **Difficult**  
-- Keeping the sprint on track while the team shrank to three members and a lead had to be chosen.  
-- Keeping the board and documents up to date while the plan was changing.  
+- Keeping the board and documents up to date while the plan was changing. In a single week the plan changed three times (the added screens, the palette page and the team change), and each change had to be reflected in Trello, the logbook and our documents.  
+- Keeping the sprint on track while the team shrank to three members and a new lead had to be agreed, because redistributing tasks took most of one working day.  
 
 ---
 
@@ -400,8 +480,10 @@ The core front-end screens were completed on the planned days, and the sprint ad
 
 ## Evidence: Daily Logbooks and Taskboard Workflow
 
-- **Overview:** Our logbook records daily stand-ups using the three Agile questions (what was completed, what is planned, and what the impediments are), together with a taskboard snapshot and a walkthrough of the work.  
-- **Period covered:** 28 July to 7 August 2026 (Sprint 3).  
+An Agile logbook records the team's daily stand-ups, sprint plans and retrospective notes. Each entry answers three questions: what did I complete since the last stand-up, what am I planning before the next one, and what are my impediments (risks or problems).
+
+- **Period covered:** 28 July to 7 August 2026 (Sprint 3), with eight stand-up entries.  
+- **Taskboard walkthrough:** each logbook also records a taskboard snapshot and four questions about the work.  
 
 ### Agile Logbook documents
 
@@ -425,28 +507,47 @@ The core front-end screens were completed on the planned days, and the sprint ad
 | 06/08 | Colour palette page completed | Heavier workload with three members |
 | 07/08 | New member welcomed; Trello updated | Getting the new member up to speed |
 
+### Taskboard walkthrough
+
+| Question | Answer |
+| --- | --- |
+| What do we need to do to advance this piece of work? | Finish building the remaining React screens from the wireframes and get ready to connect them to the Java backend and MySQL database |
+| Is anyone working on anything that is not on the board? | No. All repository and front-end work is tracked on the board and committed to GitHub |
+| What do we need to finish as a team? | Finish the remaining screens and agree the API structure before starting backend integration |
+| Are there any bottlenecks or blockers? | None major. Mostly getting everyone comfortable with the Git workflow and React component structure |
+
+### Patterns in the logbook
+- **Technical blockers were early and practical.** In the first week the impediments moved from folder structure and branching (28/07) to reusable React components (29/07) to consistent styling (30/07). Each one was raised in the stand-up and then no longer appeared, which shows the agreement to raise blockers early working.  
+- **The second week was about the team.** The impediments on 4, 6 and 7 August were all about people and workload: redistributing tasks, a heavier load with three members, and onboarding a new member.  
+- **Plans matched outcomes.** Each day's "planned" answer became the next day's "completed" answer, from the repository on 28 July to the Cart and Checkout screens on 31 July.  
+
 ## Reflection: Agile Logbook (STAR Method)
 
 ### Situation  
-The Agile method requires a team to record its progress, plans and blockers every day. We kept a logbook through Sprint 3, a sprint in which our team also changed. It was important that the records were accurate, because the logbook is our evidence of how the team worked.
+The Agile method relies on a team being honest and regular about its progress, plans and problems, and the logbook is the evidence of that. We kept it through Sprint 3, a sprint in which the team also changed. It was important that the records were accurate, because the logbook is our evidence of how the team worked, and because the team members who were reading it needed to trust what it said.
 
 ### Task  
-My task was to record the stand-ups honestly, track our work against the taskboard, and log the blockers and team changes. I wrote entries in the logbook for our stand-ups.
+My task was to record the stand-ups honestly, track our work against the taskboard, and log the blockers and team changes. I wrote entries in the logbook for our stand-ups, and I also had to make sure the logbook agreed with what the Trello board showed.
 
 ### Action  
-- Recorded daily stand-ups using the three Agile questions.  
-- Logged blockers as they came up, such as folder structure on 28 July, React components on 29 July and styling consistency on 30 July.  
-- Recorded the team change on 4 August, when Hillary left, I stepped up as team lead and Trello was updated.  
-- Recorded the welcome and onboarding plan for Liyabona on 7 August.  
-- Recorded the Trello updates I made on 4 August in the logbook.  
+- Recorded daily stand-ups using the three Agile questions, so each entry said what was done, what was planned and what was blocking us.  
+- Logged blockers as they came up, such as folder structure and branching on 28 July, React components on 29 July and styling consistency on 30 July.  
+- Recorded the team change on 4 August, when Hillary left, I stepped up as team lead and Trello was updated. I recorded the Trello updates I made on 4 August in the logbook.  
+- Recorded the progress on the colour palette page across 5 and 6 August, including the palette revisions that slowed us down.  
+- Recorded the welcome and onboarding plan for Liyabona on 7 August, so the next sprint's tasks were already linked to a person.  
+- Kept a taskboard snapshot and walkthrough in each logbook, so the written entries and the board could be checked against each other.  
 
 ### Result  
-The logbook showed how our team worked day to day and how it handled change. It also showed which problems kept coming back, such as styling consistency and React components. I learned that a logbook is only useful if it is kept up to date every day, alongside the board and our documents. If I did this again I would estimate tasks before each sprint and record those estimates in the logbook.
+The logbook showed how our team worked day to day and how it handled change. It also showed which problems kept coming back, such as styling consistency and React components, and that raising them in the stand-up helped us deal with them before they grew. I learned that a logbook is only useful if it is kept up to date every day, alongside the board and our documents, because a gap in one of them makes the others harder to trust. If I did this again I would estimate tasks before each sprint and record those estimates in the logbook, so that the plan, the progress and the time taken can be compared. I would also record decisions, such as who took over which cards on 4 August, as well as tasks.
 
-### What Was Easy and What Was Difficult
+---
+
+## What Was Easy and What Was Difficult
 
 **Easy**  
-- Answering the three stand-up questions each day, because they gave the entries a clear structure.  
+- Answering the three stand-up questions each day, because they gave every entry a clear structure and made it quick to write.  
+- Linking each entry to the board, because the screens built each day were already listed as tasks.  
 
 **Difficult**  
-- Keeping the logbook, Trello and our documents up to date at the same time.
+- Keeping the logbook, Trello and our documents up to date at the same time. A change in one, such as the team change on 4 August, meant updating the other two, and it took discipline to do all three on the same day.  
+- Recording enough detail about team changes. The 4 August entry had to explain who left, who became lead and how cards were reassigned, without it becoming too long to read.
