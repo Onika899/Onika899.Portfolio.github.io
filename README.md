@@ -198,11 +198,15 @@ The portfolio was successfully deployed using GitHub Pages and is accessible via
 **Project:** PartLink, a digital marketplace for verified car parts in Khayelitsha  
 **Subject:** Project Presentation 3 (PRP370S / PRP371S / PRP372S)  
 **My role:** Writer (as listed in our team charter) and Team Lead from 4 August 2026  
+**Submission date:** 27 October 2026  
+**Last updated:** 27 October 2026  
 
 **Contents:** [Agile Team Charter](#agile-team-charter-partlink-project) | [User Stories and Tasks](#user-stories-and-tasks-partlink-project) | [Product Backlog](#product-backlog-partlink-project) | [Sprint Backlog](#sprint-backlog-partlink-project) | [Agile Logbook](#agile-logbook-partlink-project)
 
 ## About the project
 PartLink is a mobile-first digital marketplace that connects vehicle owners, mechanics and small transport operators in Khayelitsha with verified car parts sellers. Our community survey found that residents lose between 30 minutes and several hours (and sometimes days or weeks) finding the right part, and travel anywhere from 10 to 15 km to more than 100 km to get it. Buyers also worry about low-quality and stolen parts. To plan, build and track the project we used Agile methods: a Kanban board on Trello, short sprints, daily stand-ups and a logbook. The five sections below show how our team worked, and each one has evidence followed by my reflection.
+
+**Project status (27 October 2026):** the PartLink website has been fully coded and deployed, and it is working. The sections below record how we planned, built and tracked it. The logbook entries cover Sprint 3 (28 July to 7 August 2026) in detail, and the team completed the remaining work after that.
 
 ---
 
@@ -353,7 +357,9 @@ A product backlog is a prioritised list of all the work a product needs, includi
 
 - **Live board:** [PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)  
 - **Board columns:** Product Backlog (work still to do), In Progress and Completed.  
-- **Sprints:** Sprint 1 Research and Validation (complete), Sprint 2 Wireframes and MVP Planning (complete), Sprint 3 Repository and Front-End (in progress during the logbook period), Sprint 4 Back-End Integration (upcoming).  
+- **Sprints:** Sprint 1 Research and Validation (complete), Sprint 2 Wireframes and MVP Planning (complete), Sprint 3 Repository and Front-End (complete) and Sprint 4 Back-End Integration (complete). The board snapshot in our logbook was taken during Sprint 3, and the website has since been completed and deployed.  
+
+**Status as at 27 October 2026:** all core backlog items are complete, and the PartLink website is deployed and working.
 
 | Priority | Backlog item | Sprint | Status |
 | --- | --- | --- | --- |
@@ -362,11 +368,12 @@ A product backlog is a prioritised list of all the work a product needs, includi
 | 3 | MVP scope and tech stack agreed: React, Java, MySQL | Sprint 2 | Complete |
 | 4 | Clickable prototype with design feedback | Sprint 2 | Complete |
 | 5 | GitHub repository and project structure | Sprint 3: Repository & Front-End | Complete |
-| 6 | Front-end development in React: all 17 wireframed screens | Sprint 3 | In progress |
+| 6 | Front-end development in React: all 17 wireframed screens | Sprint 3 | Complete |
 | 7 | Colour palette page (assigned by our lecturer) | Sprint 3 | Complete |
-| 8 | Connect React front-end to the Java backend and MySQL database | Sprint 4: Back-End Integration | Upcoming |
-| 9 | Connect listing, cart and checkout screens to the backend and database | Sprint 4 | Upcoming |
+| 8 | Connect React front-end to the Java backend and MySQL database | Sprint 4: Back-End Integration | Complete |
+| 9 | Connect listing, cart and checkout screens to the backend and database | Sprint 4 | Complete |
 | 10 | Optional: Requests and Create Car Part Request screens | Sprint 4 | Optional |
+| 11 | Deploy the PartLink website | Final sprint | Complete |
 
 ![Trello Product Backlog](trello-product-backlog.png)
 
@@ -432,6 +439,8 @@ A sprint backlog is the actionable plan for one sprint. It is made up of the ite
 - **05/08/2026:** the brand colour palette, logo usage and typography were finalised so the palette page could be built.  
 - **07/08/2026:** Liyabona Ngece joined the team and was assigned to upcoming back-end integration tasks.  
 
+**Project outcome (as at 27 October 2026):** after Sprint 3 the team completed the remaining sprints, including back-end integration, and deployed the PartLink website. The website is live and working.
+
 ![Trello Sprint Board](trello-sprint-board.png)
 
 ### Sprint 3 review (based on the logbook)
@@ -460,7 +469,7 @@ My task was to help plan the sprint, assign the work and keep the board updated 
 - Prepared for Liyabona's arrival on 7 August by updating Trello and planning her onboarding and back-end tasks.  
 
 ### Result  
-The core front-end screens were completed on the planned days, and the sprint adapted to a new request and a team change. By 7 August the main screens from our wireframes were built and the colour palette page was finished. This taught me that a plan needs room for new requests and team changes, because two unplanned things (the lecturer's palette page and Hillary leaving) both landed in the same sprint. In Sprint 4 I would estimate every task before the sprint starts, so the plan reflects how long the work will really take. I would also agree the API structure at the start of the sprint, because connecting the front-end to the Java back-end depends on it.
+The core front-end screens were completed on the planned days, and the sprint adapted to a new request and a team change. By 7 August the main screens from our wireframes were built and the colour palette page was finished. This taught me that a plan needs room for new requests and team changes, because two unplanned things (the lecturer's palette page and Hillary leaving) both landed in the same sprint. Because the front-end was finished on time, the team could move on to back-end integration and finally deploy a working website. Looking back, I would estimate every task before each sprint starts, so the plan reflects how long the work will really take. I would also agree the API structure before the back-end integration sprint, because connecting the front-end to the Java back-end depends on it.
 
 ---
 
@@ -482,7 +491,7 @@ The core front-end screens were completed on the planned days, and the sprint ad
 
 An Agile logbook records the team's daily stand-ups, sprint plans and retrospective notes. Each entry answers three questions: what did I complete since the last stand-up, what am I planning before the next one, and what are my impediments (risks or problems).
 
-- **Period covered:** 28 July to 7 August 2026 (Sprint 3), with eight stand-up entries.  
+- **Period covered:** 28 July to 7 August 2026 (Sprint 3), with eight stand-up entries. This is the sprint in which we built the front-end. The team completed the remaining work and deployed the website after this period.  
 - **Taskboard walkthrough:** each logbook also records a taskboard snapshot and four questions about the work.  
 
 ### Agile Logbook documents
@@ -507,7 +516,7 @@ An Agile logbook records the team's daily stand-ups, sprint plans and retrospect
 | 06/08 | Colour palette page completed | Heavier workload with three members |
 | 07/08 | New member welcomed; Trello updated | Getting the new member up to speed |
 
-### Taskboard walkthrough
+### Taskboard walkthrough (recorded during Sprint 3)
 
 | Question | Answer |
 | --- | --- |
