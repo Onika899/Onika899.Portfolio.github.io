@@ -196,16 +196,17 @@ The portfolio was successfully deployed using GitHub Pages and is accessible via
 # AGILE PORTFOLIO: PARTLINK PROJECT
 
 **Project:** PartLink, a digital marketplace for verified car parts in Khayelitsha  
-**Subject:** Project Presentation 3   
+**Subject:** Project Presentation 3 (PRP370S / PRP371S / PRP372S)  
 **My role:** Writer (as listed in our team charter) and Team Lead from 4 August 2026  
-  
+**Submission date:** 27 October 2026  
+**Last updated:** 27 October 2026  
 
 **Contents:** [Agile Team Charter](#agile-team-charter-partlink-project) | [User Stories and Tasks](#user-stories-and-tasks-partlink-project) | [Product Backlog](#product-backlog-partlink-project) | [Sprint Backlog](#sprint-backlog-partlink-project) | [Agile Logbook](#agile-logbook-partlink-project)
 
 ## About the project
 PartLink is a mobile-first digital marketplace that connects vehicle owners, mechanics and small transport operators in Khayelitsha with verified car parts sellers. Our community survey found that residents lose between 30 minutes and several hours (and sometimes days or weeks) finding the right part, and travel anywhere from 10 to 15 km to more than 100 km to get it. Buyers also worry about low-quality and stolen parts. To plan, build and track the project we used Agile methods: a Kanban board on Trello, short sprints, daily stand-ups and a logbook. The five sections below show how our team worked, and each one has evidence followed by my reflection.
 
-**Project status (27 October 2026):** the PartLink website has been fully coded and deployed, and it is working. The sections below record how we planned, built and tracked it. The logbook entries cover Sprint 3 (28 July to 7 August 2026) in detail, and the team completed the remaining work after that.
+**Project status (27 October 2026):** the PartLink website has been fully coded and deployed, and it is working. The sections below record how we planned, built and tracked it. Every card in Sprints 5 to 10 on our Trello board shows a completed checklist. The logbook entries cover the front-end build (28 July to 7 August 2026) in detail, and the team completed the remaining work after that.
 
 ---
 
@@ -287,7 +288,6 @@ A user story is a short description of a feature written from the end user's poi
 
 ![User Stories Evidence](user-stories-evidence.png)
 
-
 ### How the 22 stories are organised
 
 | Area | Stories | Examples |
@@ -356,29 +356,35 @@ The stories gave the team clear direction and linked our build work to what the 
 A product backlog is a prioritised list of all the work a product needs, including features, fixes and improvements. Ours is managed on a Trello Kanban board and ordered by sprint, from research through to back-end integration.
 
 - **Live board:** [PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)  
-- **Board columns:** Product Backlog (work still to do), In Progress and Completed.  
-- **Sprints:** Sprint 1 Research and Validation (complete), Sprint 2 Wireframes and MVP Planning (complete), Sprint 3 Repository and Front-End (complete) and Sprint 4 Back-End Integration (complete). The board snapshot in our logbook was taken during Sprint 3, and the website has since been completed and deployed.  
+- **Board structure:** one list per sprint, with a daily card for each day and a checklist of tasks on every card. The full sprint plan is in the Sprint Backlog section.  
+- **Sprints:** the board is divided into ten sprints, and Sprints 5 to 10 are shown in the Sprint Backlog section. Our logbook's taskboard snapshot used an earlier sprint numbering, so the sprint numbers in the table below follow the final Trello board.
 
 **Status as at 27 October 2026:** all core backlog items are complete, and the PartLink website is deployed and working.
 
 | Priority | Backlog item | Sprint | Status |
 | --- | --- | --- | --- |
-| 1 | Community research, survey and business case (validated and presented) | Sprint 1: Research & Validation | Complete |
-| 2 | Wireframes for all 17 app screens | Sprint 2: Wireframes & MVP Planning | Complete |
-| 3 | MVP scope and tech stack agreed: React, Java, MySQL | Sprint 2 | Complete |
-| 4 | Clickable prototype with design feedback | Sprint 2 | Complete |
-| 5 | GitHub repository and project structure | Sprint 3: Repository & Front-End | Complete |
-| 6 | Front-end development in React: all 17 wireframed screens | Sprint 3 | Complete |
-| 7 | Colour palette page (assigned by our lecturer) | Sprint 3 | Complete |
-| 8 | Connect React front-end to the Java backend and MySQL database | Sprint 4: Back-End Integration | Complete |
-| 9 | Connect listing, cart and checkout screens to the backend and database | Sprint 4 | Complete |
-| 10 | Optional: Requests and Create Car Part Request screens | Sprint 4 | Optional |
-| 11 | Deploy the PartLink website | Final sprint | Complete |
+| 1 | Community research, survey and business case (validated and presented) | Earlier sprints | Complete |
+| 2 | User stories | Sprint 5, Day 1 | Complete |
+| 3 | Product backlog | Sprint 5, Day 2 | Complete |
+| 4 | MVP planning and development: scope and tech stack (React, Java, MySQL) | Sprint 5, Days 3 and 4 | Complete |
+| 5 | Wireframe planning and wireframes for all 17 app screens | Sprint 6 | Complete |
+| 6 | Front-end development in React: all 17 wireframed screens | Sprint 7, Day 1 | Complete |
+| 7 | Colour palette page (assigned by our lecturer) | Added during the front-end build | Complete |
+| 8 | Database design (MySQL) | Sprint 7, Day 2 | Complete |
+| 9 | Java back-end development (IntelliJ IDEA) | Sprint 7, Day 3 | Complete |
+| 10 | Authentication | Sprint 8, Day 1 | Complete |
+| 11 | User testing requirements and system testing | Sprint 8, Days 2 and 4 | Complete |
+| 12 | Updated risk analysis | Sprint 8, Day 3 and Sprint 9, Day 1 | Complete |
+| 13 | Collect feedback and final UI improvements | Sprint 9, Days 2 and 3 | Complete |
+| 14 | Sprint retrospective | Sprint 9, Day 4 | Complete |
+| 15 | Final documentation, and final project presentation and demonstration | Sprint 10, Days 1 and 2 | Complete |
+| 16 | Deployment and closure (the PartLink website is live) | Sprint 10, Day 3 | Complete |
+| 17 | Optional: Requests and Create Car Part Request screens | Optional | Optional |
 
 ![Trello Product Backlog](trello-product-backlog.png)
 
 ### Why the backlog is ordered this way
-Research and validation come first, because there was no point designing a solution before we had proved the problem was real. Wireframes and the MVP scope come next, so that development has a clear plan. Front-end development follows the wireframes, and back-end integration comes after, because it connects screens that already exist. The Requests screens are optional, because the app works without them.
+Research and validation come first, because there was no point designing a solution before we had proved the problem was real. User stories, the product backlog and the MVP plan come next, followed by the wireframes, so that development has a clear plan. Front-end development, database design and the Java back-end follow the wireframes. Authentication, testing, risk analysis and user feedback come after the build, and the project closes with final documentation, the final presentation and demonstration, and deployment. The Requests screens are optional, because the app works without them.
 
 ## Reflection: Product Backlog (STAR Method)
 
@@ -389,8 +395,8 @@ Our project covered research, design and development, and the work was spread ac
 My task was to help build and maintain the backlog on Trello, prioritise it, and keep it aligned with our user stories. I updated the board as work moved and kept it consistent with our documents, so that anyone in the team could open it and see the true state of the project.
 
 ### Action  
-- Organised the work into four sprints, from research and validation to back-end integration.  
-- Kept the board in three columns (Product Backlog, In Progress and Completed) and moved cards as work progressed. For example, the survey and business case, the 17 wireframes, the MVP and tech-stack decision and the GitHub repository all moved to Completed.  
+- Organised the work into ten sprints of three or four daily cards, from research and planning to deployment and closure.  
+- Kept the board up to date by ticking off each card's checklist as the work was done. Every card in Sprints 5 to 10 now shows a completed checklist, from user stories and wireframes to authentication, testing and deployment.  
 - Added the colour palette page to the backlog after our lecturer asked for it on 31 July 2026, so the new request was visible and tracked.  
 - After Hillary left on 4 August 2026, updated the board to match the new plan and reassigned her outstanding cards. I reassigned them across the three remaining members so that work could continue.  
 - Updated the board again on 7 August 2026 when Liyabona joined, so that she could see the project history and her upcoming back-end tasks.  
@@ -415,9 +421,49 @@ The backlog gave the team full visibility of what was done, in progress and stil
 
 # Sprint Backlog (PartLink Project)
 
-## Evidence: Sprint 3, Repository and Front-End (28 July to 7 August 2026)
+## Evidence: Sprint Backlogs
 
 A sprint backlog is the actionable plan for one sprint. It is made up of the items pulled from the product backlog, broken into tasks the team can finish within the sprint.
+
+### Sprint plan on the Trello board
+
+Our Trello board has one list per sprint. Each sprint has three or four daily cards, and every card has a checklist of tasks and the team members assigned to it. Every card visible in the screenshots has a green tick and a fully completed checklist, which shows the work was finished.
+
+![Trello Sprints 5 to 9](trello-sprints-5-9.png)
+
+![Trello Sprints 7 to 10](trello-sprints-7-10.png)
+
+| Sprint | Focus | Day | Task card | Checklist | Assigned |
+| --- | --- | --- | --- | --- | --- |
+| **Sprint 5** | Planning the product | Day 1 | User Stories | 4/4 | OG, SN, S |
+| | | Day 2 | Product backlog | 4/4 | SN, S, OG |
+| | | Day 3 | MVP Planning | 4/4 | OG, SN, S |
+| | | Day 4 | MVP Development | 4/4 | OG, SN, S |
+| **Sprint 6** | Design | Day 1 | Wireframe Planning | 4/4 | OG, SN, S |
+| | | Day 2 | Wireframes | 4/4 | OG, SN, S |
+| | | Day 3 | Wireframes | 4/4 | OG, SN, S |
+| | | Day 4 | Wireframes | 4/4 | OG, SN, S |
+| **Sprint 7** | Build | Day 1 | Front-End Development | 4/4 | OG, LN, N, SN, S |
+| | | Day 2 | Database Design | 6/6 | OG, LN, N, SN, S |
+| | | Day 3 | Develop Java backend (IntelliJ IDEA) | 5/5 | See screenshot |
+| **Sprint 8** | Secure and test | Day 1 | Authentication | 4/4 | N, LN, SN |
+| | | Day 2 | User Testing Requirements | 4/4 | N, SN, LN, S |
+| | | Day 3 | Updated Risk Analysis | 4/4 | N, LN, SN, OG, S |
+| | | Day 4 | System Testing | Complete | See screenshot |
+| **Sprint 9** | Refine | Day 1 | Updated Risk Analysis | 4/4 | S, SN, OG, N, LN |
+| | | Day 2 | Collect Feedback | 4/4 | LN, N, OG, S, SN |
+| | | Day 3 | Final UI Improvements | 4/4 | OG, SN, S |
+| | | Day 4 | Sprint Retrospective | Complete | See screenshot |
+| **Sprint 10** | Close | Day 1 | Final Documentation | 4/4 | LN, S, SN, N, OG |
+| | | Day 2 | Final Project Presentation & Demonstration | 4/4 | LN, N, OG, SN, S |
+| | | Day 3 | Deployment and Closure | 4/4 | See screenshot |
+
+**Team member initials:** OG = Onika Gobane, HI = Hillary Itlhabanyeng, IK = Inam Klaas, LN = Liyabona Ngece, N = Nondumiso Ngobese, SN = Sesethu Nciti, S = Siphesihle Khinase.  
+Sprint 7 has four cards, and the fourth is below the visible area of the screenshots.
+
+### Front-end build sprint in detail (28 July to 7 August 2026, from the logbook)
+
+The logbook's taskboard snapshot numbered this sprint differently from our final Trello board, where the front-end work sits in Sprint 7.
 
 - **Sprint goal:** Set up the GitHub repository and build the core front-end screens in React from our 17-screen wireframe set.  
 - **Live board:** [PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)  
@@ -439,11 +485,11 @@ A sprint backlog is the actionable plan for one sprint. It is made up of the ite
 - **05/08/2026:** the brand colour palette, logo usage and typography were finalised so the palette page could be built.  
 - **07/08/2026:** Liyabona Ngece joined the team and was assigned to upcoming back-end integration tasks.  
 
-**Project outcome (as at 27 October 2026):** after Sprint 3 the team completed the remaining sprints, including back-end integration, and deployed the PartLink website. The website is live and working.
+**Project outcome (as at 27 October 2026):** after the front-end build the team completed the remaining sprints, up to Sprint 10 (Deployment and Closure), and deployed the PartLink website. The website is live and working.
 
 ![Trello Sprint Board](trello-sprint-board.png)
 
-### Sprint 3 review (based on the logbook)
+### Front-end sprint review (based on the logbook)
 
 | What went well | What did not go well | What we would change |
 | --- | --- | --- |
@@ -455,7 +501,7 @@ A sprint backlog is the actionable plan for one sprint. It is made up of the ite
 ## Reflection: Sprint Backlog (STAR Method)
 
 ### Situation  
-By the start of Sprint 3, research, wireframes and the MVP plan were complete, and the next step was to start building. The wireframes gave us a clear guide, so the plan was to build the screens in order, a few each day, with the 17-screen set as our target. The challenge was to turn that large goal into small daily tasks that the team could finish and show on the board.
+By the start of the front-end build, research, wireframes and the MVP plan were complete, and the next step was to start building. The wireframes gave us a clear guide, so the plan was to build the screens in order, a few each day, with the 17-screen set as our target. The challenge was to turn that large goal into small daily tasks that the team could finish and show on the board.
 
 ### Task  
 My task was to help plan the sprint, assign the work and keep the board updated as tasks were completed. I worked on React front-end screens and the colour palette page. From 4 August I was also responsible for keeping the team organised as team lead, which meant making sure the sprint kept moving after a member left.
@@ -467,6 +513,7 @@ My task was to help plan the sprint, assign the work and keep the board updated 
 - Recorded the problems that came up each day (folder structure, reusable components and styling) so they could be solved quickly.  
 - Updated the board and sprint plan on 4 August after the team changed, so that Hillary's outstanding work was visible and reassigned.  
 - Prepared for Liyabona's arrival on 7 August by updating Trello and planning her onboarding and back-end tasks.  
+- Worked through the daily cards for Sprints 5 to 10 on Trello, ticking off each checklist as the tasks were completed.  
 
 ### Result  
 The core front-end screens were completed on the planned days, and the sprint adapted to a new request and a team change. By 7 August the main screens from our wireframes were built and the colour palette page was finished. This taught me that a plan needs room for new requests and team changes, because two unplanned things (the lecturer's palette page and Hillary leaving) both landed in the same sprint. Because the front-end was finished on time, the team could move on to back-end integration and finally deploy a working website. Looking back, I would estimate every task before each sprint starts, so the plan reflects how long the work will really take. I would also agree the API structure before the back-end integration sprint, because connecting the front-end to the Java back-end depends on it.
@@ -491,7 +538,7 @@ The core front-end screens were completed on the planned days, and the sprint ad
 
 An Agile logbook records the team's daily stand-ups, sprint plans and retrospective notes. Each entry answers three questions: what did I complete since the last stand-up, what am I planning before the next one, and what are my impediments (risks or problems).
 
-- **Period covered:** 28 July to 7 August 2026 (Sprint 3), with eight stand-up entries. This is the sprint in which we built the front-end. The team completed the remaining work and deployed the website after this period.  
+- **Period covered:** 28 July to 7 August 2026 (the front-end build sprint), with eight stand-up entries. This is the sprint in which we built the front-end. The team completed the remaining work and deployed the website after this period.  
 - **Taskboard walkthrough:** each logbook also records a taskboard snapshot and four questions about the work.  
 
 ### Agile Logbook documents
@@ -516,7 +563,7 @@ An Agile logbook records the team's daily stand-ups, sprint plans and retrospect
 | 06/08 | Colour palette page completed | Heavier workload with three members |
 | 07/08 | New member welcomed; Trello updated | Getting the new member up to speed |
 
-### Taskboard walkthrough (recorded during Sprint 3)
+### Taskboard walkthrough (recorded during the front-end build)
 
 | Question | Answer |
 | --- | --- |
@@ -533,7 +580,7 @@ An Agile logbook records the team's daily stand-ups, sprint plans and retrospect
 ## Reflection: Agile Logbook (STAR Method)
 
 ### Situation  
-The Agile method relies on a team being honest and regular about its progress, plans and problems, and the logbook is the evidence of that. We kept it through Sprint 3, a sprint in which the team also changed. It was important that the records were accurate, because the logbook is our evidence of how the team worked, and because the team members who were reading it needed to trust what it said.
+The Agile method relies on a team being honest and regular about its progress, plans and problems, and the logbook is the evidence of that. We kept it through the front-end build sprint, a sprint in which the team also changed. It was important that the records were accurate, because the logbook is our evidence of how the team worked, and because the team members who were reading it needed to trust what it said.
 
 ### Task  
 My task was to record the stand-ups honestly, track our work against the taskboard, and log the blockers and team changes. I wrote entries in the logbook for our stand-ups, and I also had to make sure the logbook agreed with what the Trello board showed.
