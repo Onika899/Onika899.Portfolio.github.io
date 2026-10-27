@@ -199,8 +199,6 @@ The portfolio was successfully deployed using GitHub Pages and is accessible via
 **Subject:** Project Presentation 3 (PRP370S / PRP371S / PRP372S)  
 **My role:** Writer (as listed in our team charter) and Team Lead from 4 August 2026  
 
-> **Before you submit:** complete every **[bracketed part]** with your own details, then delete this note.
-
 **Contents:** [Agile Team Charter](#agile-team-charter-partlink-project) | [User Stories and Tasks](#user-stories-and-tasks-partlink-project) | [Product Backlog](#product-backlog-partlink-project) | [Sprint Backlog](#sprint-backlog-partlink-project) | [Agile Logbook](#agile-logbook-partlink-project)
 
 ---
@@ -216,31 +214,33 @@ The portfolio was successfully deployed using GitHub Pages and is accessible via
 - **Definition of Done:** work aligned with project requirements, documentation completed and reviewed, tasks updated in the Agile logbook, deliverables meeting quality standards, and team agreement that the objectives are achieved.  
 - **Document evidence:** [View Agile Team Charter](./Agile%20Team%20Charter%20%281%29.docx)
 
+![Agile Team Charter Evidence](charter-evidence.png)
+
 ## Reflection: Agile Team Charter (STAR Method)
 
 ### Situation  
-Our assessment required the team to agree how we would work before building anything. As a team building PartLink, we needed a shared charter that set out our purpose, roles, communication, decision-making and what "done" means. **[One sentence on your own situation: what you expected from the charter and how you felt about working with this team.]**
+Our assessment required the team to agree how we would work before building anything. As a team building PartLink, we needed a shared charter that set out our purpose, roles, communication, decision-making and what "done" means. My role in the team was Writer, so the charter was part of the documentation I was responsible for.
 
 ### Task  
-My task was to take part in creating the charter and commit to it. As the team's Writer, my responsibility was the team's documentation. **[Confirm which parts of the charter you wrote or reviewed.]**
+My task was to take part in creating the charter and commit to it. As the team's Writer, my responsibility was the team's documentation. I wrote up the charter with the team's agreements.
 
 ### Action  
 - Took part in agreeing our mission, roles, values and working agreements with the team.  
 - Documented the working agreements: daily stand-ups, a weekly Thursday review and a clear Definition of Done.  
-- **[Add one specific thing you did, for example a section you wrote or an agreement you suggested.]**  
-- When Hillary left the group on 4 August 2026, I stepped up as team lead and the team regrouped. **[Explain what you did to keep the charter and the team on track.]**  
+- Wrote up the charter document, covering our purpose, roles, working agreements, communication, decision-making and the Definition of Done.  
+- When Hillary left the group on 4 August 2026, I stepped up as team lead and the team regrouped. I updated the Trello board to reflect the new plan and reassigned her outstanding cards across the team.  
 
 ### Result  
-**[What the charter achieved for your team, with one example from the logbook, such as the team regrouping quickly on 4 August.]** The charter also had to be updated when team members changed, which showed me **[what you learned about keeping a charter up to date]**.
+The charter gave us shared working agreements, and when the team changed on 4 August we regrouped, reassigned Trello cards and kept going with our stand-ups. The charter also had to be updated when team members changed, which showed me that a charter has to be kept up to date, because the roles in it no longer matched the team after Hillary left and Liyabona joined.
 
 ### What Was Easy and What Was Difficult
 
 **Easy**  
-- **[Example: agreeing on core values such as respect and transparency.]**  
+- Writing up the charter once the team had agreed its values and working agreements.  
 
 **Difficult**  
 - Our member list changed during the project, so the roles in the charter no longer matched the team.  
-- **[Add one more difficulty from your own experience.]**  
+- Keeping the charter and other documents up to date as the team changed.  
 
 ---
 
@@ -252,6 +252,8 @@ My task was to take part in creating the charter and commit to it. As the team's
 - **Priorities (MoSCoW):** 11 Must, 8 Should and 3 Could.  
 - **User groups:** car owners, mechanics, small transport business owners, sellers, car enthusiasts and administrators.  
 - **Document evidence:** [View PartLink User Stories PDF](./PartLink_User_Stories.pdf)
+
+![User Stories Evidence](user-stories-evidence.png)
 
 ### Key user story examples
 
@@ -265,29 +267,29 @@ My task was to take part in creating the charter and commit to it. As the team's
 ## Reflection: User Stories and Tasks (STAR Method)
 
 ### Situation  
-Our survey showed long travel times, unreliable local stock and a strong willingness to pay for convenience. We needed to turn that research into work the team could plan and build. **[Your own situation: what you understood about the problem before the stories were written.]**
+Our survey showed long travel times, unreliable local stock and a strong willingness to pay for convenience. We needed to turn that research into work the team could plan and build. As the team's Writer, I used the survey and our business case to understand who needs PartLink and why.
 
 ### Task  
-My task was to help turn our research and business idea into user stories from the buyer's and seller's point of view, and to break them into tasks for the React front-end, Java back-end and MySQL database. **[Which stories or parts you were responsible for.]**
+My task was to help turn our research and business idea into user stories from the buyer's and seller's point of view, and to break them into tasks for the React front-end, Java back-end and MySQL database. I wrote up the stories and their acceptance criteria in our documentation.
 
 ### Action  
 - Used the findings from our community survey and our business case to decide what buyers and sellers need.  
 - Wrote stories in the "As a... I want to... so that..." format with acceptance criteria.  
 - Prioritised the stories using the MoSCoW method.  
 - Broke each story into tasks and linked them to our Trello cards.  
-- **[Add one specific example: a story you wrote or improved, and why.]**  
+- Documented the stories in a PDF with acceptance criteria and tasks, so the whole team could see what each screen needed.  
 
 ### Result  
-The stories gave the team clear direction and linked our build work to what the survey found. **[One example of how the stories helped, for example a screen that was built because of a story.]** Looking back, I would **[what you would improve, such as smaller stories or clearer acceptance criteria]**.
+The stories gave the team clear direction and linked our build work to what the survey found. For example, the search, filter and listing stories matched the Home/Products and Car Part Listing screens that were built on 29 and 31 July. Looking back, I would estimate the tasks in each story before the sprint starts, so large stories are split into tasks that fit in a day.
 
 ### What Was Easy and What Was Difficult
 
 **Easy**  
-- **[Example: writing stories for the buyer and seller, because we already understood them from our survey.]**  
+- Writing stories for buyers and sellers, because our survey and business case had already shown what they need.  
 
 **Difficult**  
 - Splitting large stories, such as the whole front-end, into small tasks that could be finished in a day.  
-- **[Add one more difficulty from your own experience.]**  
+- Keeping the stories, Trello cards and documents consistent with each other.  
 
 ---
 
@@ -311,26 +313,25 @@ The stories gave the team clear direction and linked our build work to what the 
 | 9 | Connect listing, cart and checkout screens to the backend and database | Sprint 4 | Upcoming |
 | 10 | Optional: Requests and Create Car Part Request screens | Sprint 4 | Optional |
 
-<!-- Upload your Trello product backlog screenshot as trello-product-backlog.png, then remove the comment markers around the next line -->
-<!-- ![Trello Product Backlog](trello-product-backlog.png) -->
+![Trello Product Backlog](trello-product-backlog.png)
 
 ## Reflection: Product Backlog (STAR Method)
 
 ### Situation  
-To control the scope of PartLink, the team needed one central list of everything the project required, from research through to connecting the front-end to the back-end. **[Your own situation.]**
+To control the scope of PartLink, the team needed one central list of everything the project required, from research through to connecting the front-end to the back-end. Our work covered research, design and development, so it had to be tracked in one place.
 
 ### Task  
-My task was to help build and maintain the backlog on Trello, prioritise it, and keep it aligned with our user stories. **[What you were responsible for.]**
+My task was to help build and maintain the backlog on Trello, prioritise it, and keep it aligned with our user stories. I updated the board as work moved and kept it consistent with our documents.
 
 ### Action  
 - Organised the work into four sprints, from research and validation to back-end integration.  
 - Kept the board up to date as work moved between Product Backlog, In Progress and Completed.  
 - Added the colour palette page to the backlog after our lecturer asked for it on 31 July 2026.  
-- After Hillary left on 4 August 2026, updated the board and reassigned her outstanding cards across the team. **[Confirm that you did this, and describe how you decided who took which card.]**  
-- **[Add one specific example of how you prioritised an item.]**  
+- After Hillary left on 4 August 2026, updated the board and reassigned her outstanding cards across the team. I reassigned them across the three remaining members so that work could continue.  
+- Kept the board and our documents in step with each other as work was completed.  
 
 ### Result  
-The backlog gave the team full visibility of what was done, in progress and still to do. **[One example, such as how it helped the team regroup after a member left.]** Next time I would **[one specific improvement, such as adding effort estimates or splitting large items]**.
+The backlog gave the team full visibility of what was done, in progress and still to do. For example, on 4 August the board showed Hillary's outstanding cards, so we could share them across the team. Next time I would add effort estimates to each backlog item before the sprint starts.
 
 ### What Was Easy and What Was Difficult
 
@@ -339,7 +340,7 @@ The backlog gave the team full visibility of what was done, in progress and stil
 
 **Difficult**  
 - Keeping the board accurate when the team changed and work had to be reassigned.  
-- **[Add one more difficulty from your own experience.]**  
+- Keeping the board and documents up to date at the same time.  
 
 ---
 
@@ -365,34 +366,33 @@ The backlog gave the team full visibility of what was done, in progress and stil
 - **04/08/2026:** Hillary left the group, I became team lead and her cards were reassigned.  
 - **07/08/2026:** Liyabona Ngece joined the team.  
 
-<!-- Upload your Trello sprint board screenshot as trello-sprint-board.png, then remove the comment markers around the next line -->
-<!-- ![Trello Sprint Board](trello-sprint-board.png) -->
+![Trello Sprint Board](trello-sprint-board.png)
 
 ## Reflection: Sprint Backlog (STAR Method)
 
 ### Situation  
-After wireframes and MVP planning were complete, the team needed to turn the backlog into daily, timeboxed work for Sprint 3. **[Your own situation.]**
+After wireframes and MVP planning were complete, the team needed to turn the backlog into daily, timeboxed work for Sprint 3. The wireframes gave us a clear guide, so the plan was to build the screens in order, a few each day.
 
 ### Task  
-My task was to help plan the sprint, assign the work and keep the board updated as tasks were completed. From 4 August I was also responsible for keeping the team organised as team lead. **[Which tasks were assigned to you.]**
+My task was to help plan the sprint, assign the work and keep the board updated as tasks were completed. From 4 August I was also responsible for keeping the team organised as team lead. I worked on React front-end screens and the colour palette page.
 
 ### Action  
 - Planned one group of screens per day, from the repository on Day 1 to the Cart and Checkout screens on Day 4.  
 - Added the Settings, View Listing and Edit Listing screens and the colour palette page when they were needed.  
 - Updated the board and sprint plan on 4 August after the team changed.  
-- **[Add what you personally built or did in this sprint, with a specific example.]**  
+- Worked on React screens from our wireframes and on the colour palette page, and updated the board as each task was finished.  
 
 ### Result  
-The core front-end screens were completed on the planned days, and the sprint adapted to a new request and a team change. **[What this taught you about planning.]** In Sprint 4 I would **[one specific change, such as agreeing the API structure earlier]**.
+The core front-end screens were completed on the planned days, and the sprint adapted to a new request and a team change. This taught me that a plan needs room for new requests and team changes. In Sprint 4 I would estimate every task before the sprint starts, so the plan reflects how long the work will really take.
 
 ### What Was Easy and What Was Difficult
 
 **Easy**  
-- **[Example: planning one set of screens per day, because the wireframes were already finished.]**  
+- Planning one group of screens per day, because the wireframes were already finished.  
 
 **Difficult**  
 - Keeping the sprint on track while the team shrank to three members and a lead had to be chosen.  
-- **[Add one more difficulty from your own experience.]**  
+- Keeping the board and documents up to date while the plan was changing.  
 
 ---
 
@@ -410,6 +410,8 @@ The core front-end screens were completed on the planned days, and the sprint ad
 3. [View Agile Logbook, Part 3](./PartLink_Agile_Logbook%20%284%29%20%284%29.docx)  
 4. [View Agile Logbook, 4 to 7 August](./PartLink_Agile_Logbook%204-7%20Aug%20%281%29.docx)  
 
+![Agile Logbook Evidence](logbook-evidence.png)
+
 ### Logbook summary
 
 | Date | Key outcome | Main impediment |
@@ -426,20 +428,20 @@ The core front-end screens were completed on the planned days, and the sprint ad
 ## Reflection: Agile Logbook (STAR Method)
 
 ### Situation  
-The Agile method requires a team to record its progress, plans and blockers every day. We kept a logbook through Sprint 3, a sprint in which our team also changed. **[Your own situation.]**
+The Agile method requires a team to record its progress, plans and blockers every day. We kept a logbook through Sprint 3, a sprint in which our team also changed. It was important that the records were accurate, because the logbook is our evidence of how the team worked.
 
 ### Task  
-My task was to record the stand-ups honestly, track our work against the taskboard, and log the blockers and team changes. **[Whether you wrote entries yourself, and which ones.]**
+My task was to record the stand-ups honestly, track our work against the taskboard, and log the blockers and team changes. I wrote entries in the logbook for our stand-ups.
 
 ### Action  
 - Recorded daily stand-ups using the three Agile questions.  
 - Logged blockers as they came up, such as folder structure on 28 July, React components on 29 July and styling consistency on 30 July.  
 - Recorded the team change on 4 August, when Hillary left, I stepped up as team lead and Trello was updated.  
 - Recorded the welcome and onboarding plan for Liyabona on 7 August.  
-- **[Add one specific example of what you did, such as how you handled 4 August.]**  
+- Recorded the Trello updates I made on 4 August in the logbook.  
 
 ### Result  
-The logbook showed how our team worked day to day and how it handled change. It also showed which problems kept coming back, such as styling consistency and React components. **[What you learned from this.]** If I did this again I would **[one specific change, such as logging every working day or recording decisions as well as tasks]**.
+The logbook showed how our team worked day to day and how it handled change. It also showed which problems kept coming back, such as styling consistency and React components. I learned that a logbook is only useful if it is kept up to date every day, alongside the board and our documents. If I did this again I would estimate tasks before each sprint and record those estimates in the logbook.
 
 ### What Was Easy and What Was Difficult
 
@@ -447,5 +449,4 @@ The logbook showed how our team worked day to day and how it handled change. It 
 - Answering the three stand-up questions each day, because they gave the entries a clear structure.  
 
 **Difficult**  
-- **[Example: finding time to write entries on busy days, or deciding what counted as a blocker.]**  
-- **[Add one more difficulty from your own experience.]**
+- Keeping the logbook, Trello and our documents up to date at the same time.
