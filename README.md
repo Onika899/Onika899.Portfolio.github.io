@@ -552,6 +552,8 @@ An Agile logbook records the team's daily stand-ups, sprint plans and retrospect
 
 ![Agile Logbook Evidence](logbook-evidence.png)
 
+![Agile Logbook Evidence](logbook-evidence1.png)
+
 ### Logbook summary
 
 | Date | Key outcome | Main impediment |
