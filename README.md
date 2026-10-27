@@ -1,4 +1,3 @@
-
 # ONIKA GOBANE
 ## GitHub Student Account Evidence
 ![Github Profile](github-profile.png)
@@ -155,8 +154,8 @@ The mock interview video was successfully embedded into my portfolio and plays c
 
 ## Published on GitHub Pages Evidence
 
-
 ![GitHub Pages Evidence](github-pages.png)
+
 # Reflection: Using GitHub Pages (STAR Method)
 
 ## Situation  
@@ -191,4 +190,262 @@ The portfolio was successfully deployed using GitHub Pages and is accessible via
 - Ensuring consistent layout across browsers and devices required extra testing.   
 - Testing across different devices and browsers required extra time.
 
+---
+---
 
+# AGILE PORTFOLIO: PARTLINK PROJECT
+
+**Project:** PartLink, a digital marketplace for verified car parts in Khayelitsha  
+**Subject:** Project Presentation 3 (PRP370S / PRP371S / PRP372S)  
+**My role:** Writer (as listed in our team charter) and Team Lead from 4 August 2026  
+
+> **Before you submit:** complete every **[bracketed part]** with your own details, then delete this note.
+
+**Contents:** [Agile Team Charter](#agile-team-charter-partlink-project) | [User Stories and Tasks](#user-stories-and-tasks-partlink-project) | [Product Backlog](#product-backlog-partlink-project) | [Sprint Backlog](#sprint-backlog-partlink-project) | [Agile Logbook](#agile-logbook-partlink-project)
+
+---
+
+# Agile Team Charter (PartLink Project)
+
+## Evidence: Team Charter
+
+- **Objective:** To develop and launch PartLink, a trusted digital marketplace connecting vehicle owners, mechanics and small transport operators in Khayelitsha with verified car parts sellers.  
+- **Team members:** Hillary Itlhabanyeng, Inam Klaas, Onika Gobane, Siphesihle Khinase, Sesethu Nciti, Nondumiso Ngobese, Liyabona Ngece.  
+- **Core values:** Respect, transparency, accountability, trust, learning mindset and collaboration.  
+- **Ways of working:** Kanban on Trello, daily stand-ups, and a weekly Thursday meeting to review the logbook and plan upcoming tasks.  
+- **Definition of Done:** work aligned with project requirements, documentation completed and reviewed, tasks updated in the Agile logbook, deliverables meeting quality standards, and team agreement that the objectives are achieved.  
+- **Document evidence:** [View Agile Team Charter](./Agile%20Team%20Charter%20%281%29.docx)
+
+## Reflection: Agile Team Charter (STAR Method)
+
+### Situation  
+Our assessment required the team to agree how we would work before building anything. As a team building PartLink, we needed a shared charter that set out our purpose, roles, communication, decision-making and what "done" means. **[One sentence on your own situation: what you expected from the charter and how you felt about working with this team.]**
+
+### Task  
+My task was to take part in creating the charter and commit to it. As the team's Writer, my responsibility was the team's documentation. **[Confirm which parts of the charter you wrote or reviewed.]**
+
+### Action  
+- Took part in agreeing our mission, roles, values and working agreements with the team.  
+- Documented the working agreements: daily stand-ups, a weekly Thursday review and a clear Definition of Done.  
+- **[Add one specific thing you did, for example a section you wrote or an agreement you suggested.]**  
+- When Hillary left the group on 4 August 2026, I stepped up as team lead and the team regrouped. **[Explain what you did to keep the charter and the team on track.]**  
+
+### Result  
+**[What the charter achieved for your team, with one example from the logbook, such as the team regrouping quickly on 4 August.]** The charter also had to be updated when team members changed, which showed me **[what you learned about keeping a charter up to date]**.
+
+### What Was Easy and What Was Difficult
+
+**Easy**  
+- **[Example: agreeing on core values such as respect and transparency.]**  
+
+**Difficult**  
+- Our member list changed during the project, so the roles in the charter no longer matched the team.  
+- **[Add one more difficulty from your own experience.]**  
+
+---
+
+# User Stories and Tasks (PartLink Project)
+
+## Evidence: User Stories and Task Breakdown
+
+- **Overview:** Based on our community survey (21 responses), we wrote 22 user stories in the format *As a [user], I want to [goal], so that [benefit]*. They are grouped into six areas: accounts, discovering PartLink, seller listings, finding and buying parts, needs of specific users, and trust and safety. Each story has acceptance criteria and tasks.  
+- **Priorities (MoSCoW):** 11 Must, 8 Should and 3 Could.  
+- **User groups:** car owners, mechanics, small transport business owners, sellers, car enthusiasts and administrators.  
+- **Document evidence:** [View PartLink User Stories PDF](./PartLink_User_Stories.pdf)
+
+### Key user story examples
+
+1. **US-06: List a car part (Must).** *As a seller, I want to list my car parts with photos, condition and price, so that buyers can trust what they are buying.*  
+   - *Tasks:* build the listing form in React, add photo upload, save listings through the Java API to MySQL.  
+2. **US-09: Filter results (Must).** *As a buyer, I want to filter car parts by brand, model and price, so that I can quickly find what I need.*  
+   - *Tasks:* build the filter controls, pass filters to the search endpoint, test filter combinations.  
+3. **US-19: See which sellers are verified (Must).** *As a buyer, I want to see which sellers are verified, so that I avoid scams, low-quality parts and stolen parts.*  
+   - *Tasks:* add a verified flag to the seller record, build the badge component, show the badge on details and profile screens.  
+
+## Reflection: User Stories and Tasks (STAR Method)
+
+### Situation  
+Our survey showed long travel times, unreliable local stock and a strong willingness to pay for convenience. We needed to turn that research into work the team could plan and build. **[Your own situation: what you understood about the problem before the stories were written.]**
+
+### Task  
+My task was to help turn our research and business idea into user stories from the buyer's and seller's point of view, and to break them into tasks for the React front-end, Java back-end and MySQL database. **[Which stories or parts you were responsible for.]**
+
+### Action  
+- Used the findings from our community survey and our business case to decide what buyers and sellers need.  
+- Wrote stories in the "As a... I want to... so that..." format with acceptance criteria.  
+- Prioritised the stories using the MoSCoW method.  
+- Broke each story into tasks and linked them to our Trello cards.  
+- **[Add one specific example: a story you wrote or improved, and why.]**  
+
+### Result  
+The stories gave the team clear direction and linked our build work to what the survey found. **[One example of how the stories helped, for example a screen that was built because of a story.]** Looking back, I would **[what you would improve, such as smaller stories or clearer acceptance criteria]**.
+
+### What Was Easy and What Was Difficult
+
+**Easy**  
+- **[Example: writing stories for the buyer and seller, because we already understood them from our survey.]**  
+
+**Difficult**  
+- Splitting large stories, such as the whole front-end, into small tasks that could be finished in a day.  
+- **[Add one more difficulty from your own experience.]**  
+
+---
+
+# Product Backlog (PartLink Project)
+
+## Evidence: Product Backlog Board
+
+- **Overview:** The product backlog is the prioritised list of all the work PartLink needs. It is managed on our Trello Kanban board and ordered by sprint, from research to integration.  
+- **Live board:** [PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)  
+
+| Priority | Backlog item | Sprint | Status |
+| --- | --- | --- | --- |
+| 1 | Community research, survey and business case (validated and presented) | Sprint 1: Research & Validation | Complete |
+| 2 | Wireframes for all 17 app screens | Sprint 2: Wireframes & MVP Planning | Complete |
+| 3 | MVP scope and tech stack agreed: React, Java, MySQL | Sprint 2 | Complete |
+| 4 | Clickable prototype with design feedback | Sprint 2 | Complete |
+| 5 | GitHub repository and project structure | Sprint 3: Repository & Front-End | Complete |
+| 6 | Front-end development in React: all 17 wireframed screens | Sprint 3 | In progress |
+| 7 | Colour palette page (assigned by our lecturer) | Sprint 3 | Complete |
+| 8 | Connect React front-end to the Java backend and MySQL database | Sprint 4: Back-End Integration | Upcoming |
+| 9 | Connect listing, cart and checkout screens to the backend and database | Sprint 4 | Upcoming |
+| 10 | Optional: Requests and Create Car Part Request screens | Sprint 4 | Optional |
+
+<!-- Upload your Trello product backlog screenshot as trello-product-backlog.png, then remove the comment markers around the next line -->
+<!-- ![Trello Product Backlog](trello-product-backlog.png) -->
+
+## Reflection: Product Backlog (STAR Method)
+
+### Situation  
+To control the scope of PartLink, the team needed one central list of everything the project required, from research through to connecting the front-end to the back-end. **[Your own situation.]**
+
+### Task  
+My task was to help build and maintain the backlog on Trello, prioritise it, and keep it aligned with our user stories. **[What you were responsible for.]**
+
+### Action  
+- Organised the work into four sprints, from research and validation to back-end integration.  
+- Kept the board up to date as work moved between Product Backlog, In Progress and Completed.  
+- Added the colour palette page to the backlog after our lecturer asked for it on 31 July 2026.  
+- After Hillary left on 4 August 2026, updated the board and reassigned her outstanding cards across the team. **[Confirm that you did this, and describe how you decided who took which card.]**  
+- **[Add one specific example of how you prioritised an item.]**  
+
+### Result  
+The backlog gave the team full visibility of what was done, in progress and still to do. **[One example, such as how it helped the team regroup after a member left.]** Next time I would **[one specific improvement, such as adding effort estimates or splitting large items]**.
+
+### What Was Easy and What Was Difficult
+
+**Easy**  
+- Moving cards across the Kanban columns and seeing progress straight away.  
+
+**Difficult**  
+- Keeping the board accurate when the team changed and work had to be reassigned.  
+- **[Add one more difficulty from your own experience.]**  
+
+---
+
+# Sprint Backlog (PartLink Project)
+
+## Evidence: Sprint 3, Repository and Front-End (28 July to 7 August 2026)
+
+- **Sprint goal:** Set up the GitHub repository and build the core front-end screens in React from our 17-screen wireframe set.  
+- **Live board:** [PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)  
+
+| Day | Sprint task | Date | Status |
+| --- | --- | --- | --- |
+| Day 1 | Create the GitHub repository and project structure | 28/07/2026 | Complete |
+| Day 2 | Build Landing Page, Home/Products, About Us and Contact Us in React | 29/07/2026 | Complete |
+| Day 3 | Build Registration, Login, Reset Password and Profile in React | 30/07/2026 | Complete |
+| Day 4 | Build Car Part Listing, Car Part Details, Cart and Checkout in React | 31/07/2026 | Complete |
+| Added | Build Settings, View Listing and Edit Listing in React | 31/07/2026 | Complete |
+| Added | Design a colour palette page (assigned by our lecturer) | 05/08 to 06/08/2026 | Complete |
+
+**Changes during the sprint**
+
+- **31/07/2026:** lecturer feedback asked for a colour palette page, which was added to the sprint.  
+- **04/08/2026:** Hillary left the group, I became team lead and her cards were reassigned.  
+- **07/08/2026:** Liyabona Ngece joined the team.  
+
+<!-- Upload your Trello sprint board screenshot as trello-sprint-board.png, then remove the comment markers around the next line -->
+<!-- ![Trello Sprint Board](trello-sprint-board.png) -->
+
+## Reflection: Sprint Backlog (STAR Method)
+
+### Situation  
+After wireframes and MVP planning were complete, the team needed to turn the backlog into daily, timeboxed work for Sprint 3. **[Your own situation.]**
+
+### Task  
+My task was to help plan the sprint, assign the work and keep the board updated as tasks were completed. From 4 August I was also responsible for keeping the team organised as team lead. **[Which tasks were assigned to you.]**
+
+### Action  
+- Planned one group of screens per day, from the repository on Day 1 to the Cart and Checkout screens on Day 4.  
+- Added the Settings, View Listing and Edit Listing screens and the colour palette page when they were needed.  
+- Updated the board and sprint plan on 4 August after the team changed.  
+- **[Add what you personally built or did in this sprint, with a specific example.]**  
+
+### Result  
+The core front-end screens were completed on the planned days, and the sprint adapted to a new request and a team change. **[What this taught you about planning.]** In Sprint 4 I would **[one specific change, such as agreeing the API structure earlier]**.
+
+### What Was Easy and What Was Difficult
+
+**Easy**  
+- **[Example: planning one set of screens per day, because the wireframes were already finished.]**  
+
+**Difficult**  
+- Keeping the sprint on track while the team shrank to three members and a lead had to be chosen.  
+- **[Add one more difficulty from your own experience.]**  
+
+---
+
+# Agile Logbook (PartLink Project)
+
+## Evidence: Daily Logbooks and Taskboard Workflow
+
+- **Overview:** Our logbook records daily stand-ups using the three Agile questions (what was completed, what is planned, and what the impediments are), together with a taskboard snapshot and a walkthrough of the work.  
+- **Period covered:** 28 July to 7 August 2026 (Sprint 3).  
+
+### Agile Logbook documents
+
+1. [View Agile Logbook, Part 1](./PartLink_Agile_Logbook%20%284%29%20%282%29.docx)  
+2. [View Agile Logbook, Part 2](./PartLink_Agile_Logbook%20%284%29%20%283%29.docx)  
+3. [View Agile Logbook, Part 3](./PartLink_Agile_Logbook%20%284%29%20%284%29.docx)  
+4. [View Agile Logbook, 4 to 7 August](./PartLink_Agile_Logbook%204-7%20Aug%20%281%29.docx)  
+
+### Logbook summary
+
+| Date | Key outcome | Main impediment |
+| --- | --- | --- |
+| 28/07 | GitHub repository and project structure created | Folder structure and branching strategy |
+| 29/07 | Landing, Home/Products, About Us and Contact Us built | Reusable React components |
+| 30/07 | Registration, Login, Reset Password and Profile built | Consistent styling |
+| 31/07 | Core front-end pages complete; lecturer feedback received | None major |
+| 04/08 | Team regrouped after a member left; Trello reassigned | Redistributing tasks and choosing a lead |
+| 05/08 | Brand colour palette, logo usage and typography finalised | Palette revisions |
+| 06/08 | Colour palette page completed | Heavier workload with three members |
+| 07/08 | New member welcomed; Trello updated | Getting the new member up to speed |
+
+## Reflection: Agile Logbook (STAR Method)
+
+### Situation  
+The Agile method requires a team to record its progress, plans and blockers every day. We kept a logbook through Sprint 3, a sprint in which our team also changed. **[Your own situation.]**
+
+### Task  
+My task was to record the stand-ups honestly, track our work against the taskboard, and log the blockers and team changes. **[Whether you wrote entries yourself, and which ones.]**
+
+### Action  
+- Recorded daily stand-ups using the three Agile questions.  
+- Logged blockers as they came up, such as folder structure on 28 July, React components on 29 July and styling consistency on 30 July.  
+- Recorded the team change on 4 August, when Hillary left, I stepped up as team lead and Trello was updated.  
+- Recorded the welcome and onboarding plan for Liyabona on 7 August.  
+- **[Add one specific example of what you did, such as how you handled 4 August.]**  
+
+### Result  
+The logbook showed how our team worked day to day and how it handled change. It also showed which problems kept coming back, such as styling consistency and React components. **[What you learned from this.]** If I did this again I would **[one specific change, such as logging every working day or recording decisions as well as tasks]**.
+
+### What Was Easy and What Was Difficult
+
+**Easy**  
+- Answering the three stand-up questions each day, because they gave the entries a clear structure.  
+
+**Difficult**  
+- **[Example: finding time to write entries on busy days, or deciding what counted as a blocker.]**  
+- **[Add one more difficulty from your own experience.]**
