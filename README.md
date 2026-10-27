@@ -196,10 +196,9 @@ The portfolio was successfully deployed using GitHub Pages and is accessible via
 # AGILE PORTFOLIO: PARTLINK PROJECT
 
 **Project:** PartLink, a digital marketplace for verified car parts in Khayelitsha  
-**Subject:** Project Presentation 3 (PRP370S / PRP371S / PRP372S)  
+**Subject:** Project Presentation 3   
 **My role:** Writer (as listed in our team charter) and Team Lead from 4 August 2026  
-**Submission date:** 27 October 2026  
-**Last updated:** 27 October 2026  
+  
 
 **Contents:** [Agile Team Charter](#agile-team-charter-partlink-project) | [User Stories and Tasks](#user-stories-and-tasks-partlink-project) | [Product Backlog](#product-backlog-partlink-project) | [Sprint Backlog](#sprint-backlog-partlink-project) | [Agile Logbook](#agile-logbook-partlink-project)
 
