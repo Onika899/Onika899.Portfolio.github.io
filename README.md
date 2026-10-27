@@ -286,6 +286,7 @@ A user story is a short description of a feature written from the end user's poi
 - **Document evidence:** [View PartLink User Stories PDF](./PartLink_User_Stories.pdf)
 
 ![User Stories Evidence](user-stories-evidence.png)
+![User Stories Evidence](user-stories-evidence1.png)
 
 ### How the 22 stories are organised
 
