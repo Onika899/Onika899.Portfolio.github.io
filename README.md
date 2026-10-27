@@ -382,6 +382,7 @@ A product backlog is a prioritised list of all the work a product needs, includi
 | 16 | Deployment and closure (the PartLink website is live) | Sprint 10, Day 3 | Complete |
 | 17 | Optional: Requests and Create Car Part Request screens | Optional | Optional |
 
+
 ![Trello Product Backlog](trello-product-backlog.png)
 
 ### Why the backlog is ordered this way
