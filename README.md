@@ -289,8 +289,8 @@ A user story is a short description of a feature written from the end user's poi
 - **User groups:** car owners, mechanics, small transport business owners, sellers, car enthusiasts and administrators.  
 - **Document evidence:** [View PartLink User Stories PDF](./PartLink_User_Stories.pdf)
 
-![User Stories Evidence](user-stories-evidence.png)
 ![User Stories Evidence](user-stories-evidence1.png)
+![User Stories Evidence](user-stories-evidence2.png)
 
 ### How the 22 stories are organised
 
