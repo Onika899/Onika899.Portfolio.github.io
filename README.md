@@ -221,7 +221,10 @@ An Agile team charter is a shared agreement that sets out a team's purpose, valu
 - **Team members:** Hillary Itlhabanyeng, Inam Klaas, Onika Gobane, Siphesihle Khinase, Sesethu Nciti, Nondumiso Ngobese, Liyabona Ngece.  
 - **Document evidence:** [View Agile Team Charter](./Agile%20Team%20Charter%20%281%29.docx)
 
-![Agile Team Charter Evidence](Agile-Team-Charter .png)
+![Agile Team Charter Evidence](Agile-Team-Charter.png)
+![Agile Team Charter Evidence](Agile-Team-Charter-1.png)
+
+
 
 ### The charter at a glance
 
